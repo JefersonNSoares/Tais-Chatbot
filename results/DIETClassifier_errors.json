@@ -1,0 +1,16 @@
+[
+  {
+    "text": "como funciona a lei rouanet",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "lei_rouanet",
+        "start": 20,
+        "end": 27,
+        "confidence_entity": 0.867546558380127,
+        "value": "rouanet",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]

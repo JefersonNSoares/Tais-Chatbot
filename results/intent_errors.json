@@ -1,0 +1,2546 @@
+[
+  {
+    "text": "proponente receber",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.4222899079322815
+    }
+  },
+  {
+    "text": "qual sua tecnologia",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.20428244769573212
+    }
+  },
+  {
+    "text": "Ministerio",
+    "intent": "definicao_minc",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.7645082473754883
+    }
+  },
+  {
+    "text": "quem é proponente",
+    "intent": "definicao_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.4982629716396332
+    }
+  },
+  {
+    "text": "vagabundos",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.37563255429267883
+    }
+  },
+  {
+    "text": "você esta aonde?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.7862440347671509
+    }
+  },
+  {
+    "text": "tchau",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.19988283514976501
+    }
+  },
+  {
+    "text": "falou, valeu",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.8544464707374573
+    }
+  },
+  {
+    "text": "vc é ótima",
+    "intent": "elogios",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.7682694792747498
+    }
+  },
+  {
+    "text": "vc e otima",
+    "intent": "elogios",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.4791114330291748
+    }
+  },
+  {
+    "text": "já",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.8489387631416321
+    }
+  },
+  {
+    "text": "confirmo",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_incentivar",
+      "confidence": 0.396258682012558
+    }
+  },
+  {
+    "text": "duvida",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "diga_mais",
+      "confidence": 0.20051980018615723
+    }
+  },
+  {
+    "text": "me diga mais",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.30675506591796875
+    }
+  },
+  {
+    "text": "nao tenho certeza",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.2833763360977173
+    }
+  },
+  {
+    "text": "quais as perguntas vc responde",
+    "intent": "o_que_sei_falar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.8591214418411255
+    }
+  },
+  {
+    "text": "quais as perquisar você responde",
+    "intent": "o_que_sei_falar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.4275000989437103
+    }
+  },
+  {
+    "text": "respondeu errado",
+    "intent": "erro_resposta_utter",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.42300015687942505
+    }
+  },
+  {
+    "text": "voce respondeu errado",
+    "intent": "erro_resposta_utter",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.43622156977653503
+    }
+  },
+  {
+    "text": "perfeito muito agradecido",
+    "intent": "agradecimento",
+    "intent_prediction": {
+      "name": "elogios",
+      "confidence": 0.37281152606010437
+    }
+  },
+  {
+    "text": "Gostaria de saber curiosidades sobre a lei",
+    "intent": "lei_rouanet_o_que_eh",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.6704344749450684
+    }
+  },
+  {
+    "text": "eu como cidadão posso contribuir para um projeto",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.21345223486423492
+    }
+  },
+  {
+    "text": "como funciona a isenção fiscal",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.9627475738525391
+    }
+  },
+  {
+    "text": "o Minc da dinheiro para lei",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "definicao_minc",
+      "confidence": 0.349113792181015
+    }
+  },
+  {
+    "text": "como financiar um projeto cultural",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.9383878111839294
+    }
+  },
+  {
+    "text": "isencao fiscal",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.6801208853721619
+    }
+  },
+  {
+    "text": "beneficiados",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.7478783130645752
+    }
+  },
+  {
+    "text": "isencao",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "diga_mais",
+      "confidence": 0.2593283951282501
+    }
+  },
+  {
+    "text": "isenção",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.9493220448493958
+    }
+  },
+  {
+    "text": "projetos aprovados",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.6120503544807434
+    }
+  },
+  {
+    "text": "qual o critério de elegibilidade para pessoas jurídicas",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.2343025654554367
+    }
+  },
+  {
+    "text": "corporação",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "processo_definicao_etapas",
+      "confidence": 0.20542585849761963
+    }
+  },
+  {
+    "text": "estabelecimento",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_comercializacao_de_ingressos",
+      "confidence": 0.17583516240119934
+    }
+  },
+  {
+    "text": "instituição",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.6071573495864868
+    }
+  },
+  {
+    "text": "venda de ingresso",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "salic_preenchimento_valor_ingresso",
+      "confidence": 0.6804016828536987
+    }
+  },
+  {
+    "text": "divulgação de marca",
+    "intent": "lei_rouanet_promocao_de_marca",
+    "intent_prediction": {
+      "name": "lei_rouanet_divulgacao_patrocinio",
+      "confidence": 0.8093605041503906
+    }
+  },
+  {
+    "text": "como funciona o processe de analise da proposta",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_prazo_analise_proposta",
+      "confidence": 0.34394407272338867
+    }
+  },
+  {
+    "text": "apresentação de proposta",
+    "intent": "lei_rouanet_apresentacao_de_proposta",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.9671374559402466
+    }
+  },
+  {
+    "text": "MEI",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.38843441009521484
+    }
+  },
+  {
+    "text": "opção 2",
+    "intent": "lei_rouanet_valor_maximo_pessoa_juridica",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.3609309494495392
+    }
+  },
+  {
+    "text": "escolha 3",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "lei_rouanet_quantidade_de_projetos_este_ano",
+      "confidence": 0.21654336154460907
+    }
+  },
+  {
+    "text": "na 3",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.21941766142845154
+    }
+  },
+  {
+    "text": "minhas primas",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.2783970534801483
+    }
+  },
+  {
+    "text": "incentivar",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_incentivar",
+      "confidence": 0.877907931804657
+    }
+  },
+  {
+    "text": "ajudar",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "o_que_sei_falar",
+      "confidence": 0.4269517958164215
+    }
+  },
+  {
+    "text": "estimular",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_denuncia",
+      "confidence": 0.18091443181037903
+    }
+  },
+  {
+    "text": "preciso verificar os projetos aptos para captar recursos via rouanet",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "captacao_quando_captar",
+      "confidence": 0.7435912489891052
+    }
+  },
+  {
+    "text": "shows podem ser patrocinados",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.6479119658470154
+    }
+  },
+  {
+    "text": "peça de teatro",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valores_pagamento_caches",
+      "confidence": 0.30920690298080444
+    }
+  },
+  {
+    "text": "peca de teatro",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_geral",
+      "confidence": 0.29245850443840027
+    }
+  },
+  {
+    "text": "show",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.23401181399822235
+    }
+  },
+  {
+    "text": "art 22",
+    "intent": "lei_rouanet_contrapartidas_sociais",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.9659509062767029
+    }
+  },
+  {
+    "text": "como posso pagar",
+    "intent": "lei_rouanet_pagamento",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.8106903433799744
+    }
+  },
+  {
+    "text": "como se dá o financiamento de projetos",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_projeto",
+      "confidence": 0.8351755142211914
+    }
+  },
+  {
+    "text": "inscrever",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.8473837971687317
+    }
+  },
+  {
+    "text": "quantas etapas tem",
+    "intent": "processo_definicao_etapas",
+    "intent_prediction": {
+      "name": "lei_rouanet_etapas_aprovacao_projeto",
+      "confidence": 0.34453585743904114
+    }
+  },
+  {
+    "text": "qual e o prazo",
+    "intent": "processo_prazo",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.6939254403114319
+    }
+  },
+  {
+    "text": "análise técnica",
+    "intent": "processo_prazo_analise_tecnica",
+    "intent_prediction": {
+      "name": "lei_rouanet_analise_tecnica",
+      "confidence": 0.509819507598877
+    }
+  },
+  {
+    "text": "quanto tempo para captar",
+    "intent": "processo_prazo_periodo_captacao",
+    "intent_prediction": {
+      "name": "captacao_quando_captar",
+      "confidence": 0.8246896266937256
+    }
+  },
+  {
+    "text": "como criar login no salic",
+    "intent": "salic_cadastro_usuario",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.358008474111557
+    }
+  },
+  {
+    "text": "instruir preenchimento",
+    "intent": "salic_preenchimento",
+    "intent_prediction": {
+      "name": "processo_preenchimento",
+      "confidence": 0.7017500400543213
+    }
+  },
+  {
+    "text": "preciso fazer a mudança de proponente",
+    "intent": "salic_preenchimento_alteracao_proponente",
+    "intent_prediction": {
+      "name": "salic_cadastro_proponente",
+      "confidence": 0.23741362988948822
+    }
+  },
+  {
+    "text": "mudança de proponente",
+    "intent": "salic_preenchimento_alteracao_proponente",
+    "intent_prediction": {
+      "name": "salic_cadastro_proponente",
+      "confidence": 0.4897973835468292
+    }
+  },
+  {
+    "text": "posso terceirizar a captacao de recursos",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "captacao_quando_captar",
+      "confidence": 0.48139265179634094
+    }
+  },
+  {
+    "text": "proponente ser pago",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.8038986921310425
+    }
+  },
+  {
+    "text": "projeto aprovado",
+    "intent": "definicao_projeto",
+    "intent_prediction": {
+      "name": "processo_aprovacao",
+      "confidence": 0.8176813721656799
+    }
+  },
+  {
+    "text": "bandidos",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.19622957706451416
+    }
+  },
+  {
+    "text": "vc me ajudou mt",
+    "intent": "elogios",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.20696762204170227
+    }
+  },
+  {
+    "text": "sei bastante",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "diga_mais",
+      "confidence": 0.802711546421051
+    }
+  },
+  {
+    "text": "quero",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "definicao_minc",
+      "confidence": 0.28123870491981506
+    }
+  },
+  {
+    "text": "mais ou menos",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.40920254588127136
+    }
+  },
+  {
+    "text": "nao",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.6297032237052917
+    }
+  },
+  {
+    "text": "não quero",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.7278474569320679
+    }
+  },
+  {
+    "text": "não é isso",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.4300188422203064
+    }
+  },
+  {
+    "text": "como cadastra",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "salic_cadastro_usuario",
+      "confidence": 0.49209368228912354
+    }
+  },
+  {
+    "text": "por onde solicitar",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "processo_prazo",
+      "confidence": 0.6726530194282532
+    }
+  },
+  {
+    "text": "como vc ta",
+    "intent": "tudo_bem",
+    "intent_prediction": {
+      "name": "diga_mais",
+      "confidence": 0.6676406264305115
+    }
+  },
+  {
+    "text": "como vc esta",
+    "intent": "tudo_bem",
+    "intent_prediction": {
+      "name": "out_of_scope",
+      "confidence": 0.2663448750972748
+    }
+  },
+  {
+    "text": "como vai vc",
+    "intent": "tudo_bem",
+    "intent_prediction": {
+      "name": "cumprimentar",
+      "confidence": 0.44236767292022705
+    }
+  },
+  {
+    "text": "gracias",
+    "intent": "agradecimento",
+    "intent_prediction": {
+      "name": "captacao",
+      "confidence": 0.35586684942245483
+    }
+  },
+  {
+    "text": "quero falar com uma pessoa",
+    "intent": "contato",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.2770368158817291
+    }
+  },
+  {
+    "text": "como funciona a lei rounet?",
+    "intent": "lei_rouanet_o_que_eh",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.9824141263961792
+    }
+  },
+  {
+    "text": "quais projetos se encaixam na lei rouanet",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "processo_prazo_analise_proposta",
+      "confidence": 0.20994290709495544
+    }
+  },
+  {
+    "text": "elegibilidade",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_incentivar",
+      "confidence": 0.952014684677124
+    }
+  },
+  {
+    "text": "participar",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_tipos_projeto",
+      "confidence": 0.40539631247520447
+    }
+  },
+  {
+    "text": "isenção fiscal",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.6128354668617249
+    }
+  },
+  {
+    "text": "pagar",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_pagamento",
+      "confidence": 0.8295712471008301
+    }
+  },
+  {
+    "text": "quem patrocina",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.4202408194541931
+    }
+  },
+  {
+    "text": "incentivo fiscal federal",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.43720245361328125
+    }
+  },
+  {
+    "text": "incentivador",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.8655734658241272
+    }
+  },
+  {
+    "text": "como funciona a isenção fiscal das empresas",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.7909519672393799
+    }
+  },
+  {
+    "text": "inferir",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.8156507611274719
+    }
+  },
+  {
+    "text": "quantos projetos usam a lei rouanet",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_projeto",
+      "confidence": 0.6486318707466125
+    }
+  },
+  {
+    "text": "projetos em execução",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "processo_execucao",
+      "confidence": 0.6765261292457581
+    }
+  },
+  {
+    "text": "toda empresa pode usar a lei rouanet",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.9724036455154419
+    }
+  },
+  {
+    "text": "organização",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "agradecimento",
+      "confidence": 0.2170618772506714
+    }
+  },
+  {
+    "text": "firma",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.7945409417152405
+    }
+  },
+  {
+    "text": "companhia",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "salic_preenchimento_comprovacao_financeira",
+      "confidence": 0.22870087623596191
+    }
+  },
+  {
+    "text": "identifiquei uma irregularidade",
+    "intent": "lei_rouanet_denuncia",
+    "intent_prediction": {
+      "name": "processo_prazo_envio_cnae",
+      "confidence": 0.4543881118297577
+    }
+  },
+  {
+    "text": "tem algo errado no projeto",
+    "intent": "lei_rouanet_denuncia",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.2562958896160126
+    }
+  },
+  {
+    "text": "divulgar marca",
+    "intent": "lei_rouanet_promocao_de_marca",
+    "intent_prediction": {
+      "name": "lei_rouanet_divulgacao_patrocinio",
+      "confidence": 0.8109715580940247
+    }
+  },
+  {
+    "text": "passos submissao",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_definicao_etapas",
+      "confidence": 0.3399210274219513
+    }
+  },
+  {
+    "text": "Andamento do projeto",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.6547960042953491
+    }
+  },
+  {
+    "text": "apresentacao de proposta",
+    "intent": "lei_rouanet_apresentacao_de_proposta",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.9834368228912354
+    }
+  },
+  {
+    "text": "acho que na 2",
+    "intent": "lei_rouanet_valor_maximo_pessoa_juridica",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_geral",
+      "confidence": 0.4566265940666199
+    }
+  },
+  {
+    "text": "terceira opção",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.14058248698711395
+    }
+  },
+  {
+    "text": "terceiro tópico",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "captacao_como_captar",
+      "confidence": 0.21138185262680054
+    }
+  },
+  {
+    "text": "promover marca do patrocinador",
+    "intent": "lei_rouanet_divulgacao_patrocinio",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.47602608799934387
+    }
+  },
+  {
+    "text": "marcas e produtos",
+    "intent": "lei_rouanet_divulgacao_patrocinio",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.4068867862224579
+    }
+  },
+  {
+    "text": "IN 02/2019",
+    "intent": "lei_rouanet_edital",
+    "intent_prediction": {
+      "name": "lei_rouanet_contrapartidas_sociais",
+      "confidence": 0.6185653209686279
+    }
+  },
+  {
+    "text": "quero imprimir a lei",
+    "intent": "lei_rouanet_edital",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.4372659921646118
+    }
+  },
+  {
+    "text": "quais os artigos que devo enquadrar para banda musical",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_enquadramento",
+      "confidence": 0.5710529685020447
+    }
+  },
+  {
+    "text": "posso mandar proposta de residência artística",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_etapas_aprovacao_projeto",
+      "confidence": 0.24954091012477875
+    }
+  },
+  {
+    "text": "incentivo a poesia",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.655092716217041
+    }
+  },
+  {
+    "text": "turne internacional",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.23982837796211243
+    }
+  },
+  {
+    "text": "dinheiro",
+    "intent": "lei_rouanet_pagamento",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.5319714546203613
+    }
+  },
+  {
+    "text": "custo divulgação",
+    "intent": "lei_rouanet_custo_vinculado",
+    "intent_prediction": {
+      "name": "lei_rouanet_divulgacao_patrocinio",
+      "confidence": 0.5434091687202454
+    }
+  },
+  {
+    "text": "inscrição",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.963516891002655
+    }
+  },
+  {
+    "text": "documentos necessários",
+    "intent": "processo_preenchimento",
+    "intent_prediction": {
+      "name": "salic_preenchimento_planilha_orcamentaria",
+      "confidence": 0.3970702290534973
+    }
+  },
+  {
+    "text": "qual prazo para aprovação do projeto",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.6251562237739563
+    }
+  },
+  {
+    "text": "quanto tempo leva para ter um projeto aprovado",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "lei_rouanet_etapas_aprovacao_projeto",
+      "confidence": 0.5546469688415527
+    }
+  },
+  {
+    "text": "deadline",
+    "intent": "processo_prazo",
+    "intent_prediction": {
+      "name": "lei_rouanet_analise_de_admissibilidade",
+      "confidence": 0.19519935548305511
+    }
+  },
+  {
+    "text": "prazo para cadastro de projetos o ano de 2020",
+    "intent": "processo_prazo_apresentar_proposta",
+    "intent_prediction": {
+      "name": "salic_cadastro_usuario",
+      "confidence": 0.23276349902153015
+    }
+  },
+  {
+    "text": "enviar projeto",
+    "intent": "processo_prazo_apresentar_proposta",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.6722033023834229
+    }
+  },
+  {
+    "text": "período de captação",
+    "intent": "processo_prazo_periodo_captacao",
+    "intent_prediction": {
+      "name": "captacao",
+      "confidence": 0.5695059299468994
+    }
+  },
+  {
+    "text": "como eu faço para recuperar meu cadastro",
+    "intent": "salic_recuperacao_de_senha",
+    "intent_prediction": {
+      "name": "salic_cadastro_usuario",
+      "confidence": 0.7033622860908508
+    }
+  },
+  {
+    "text": "vincular cpf",
+    "intent": "salic_erros_vinculo_cpf_cnpj",
+    "intent_prediction": {
+      "name": "salic_preenchimento_vinculo_cpf_proposta",
+      "confidence": 0.7716434001922607
+    }
+  },
+  {
+    "text": "não irei comercializar ingressos",
+    "intent": "salic_preenchimento_valor_ingresso",
+    "intent_prediction": {
+      "name": "lei_rouanet_comercializacao_de_ingressos",
+      "confidence": 0.7144632339477539
+    }
+  },
+  {
+    "text": "vínculo de proposta",
+    "intent": "salic_preenchimento_vinculo_cpf_proposta",
+    "intent_prediction": {
+      "name": "salic_erros_vinculo_cpf_cnpj",
+      "confidence": 0.39527735114097595
+    }
+  },
+  {
+    "text": "como fazer prestação de contas",
+    "intent": "salic_preenchimento_comprovacao_financeira",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.8788219690322876
+    }
+  },
+  {
+    "text": "prestacao de contas",
+    "intent": "salic_preenchimento_comprovacao_financeira",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.810520589351654
+    }
+  },
+  {
+    "text": "onde acho os patrocinadores",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.30389606952667236
+    }
+  },
+  {
+    "text": "por que esse nome",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "tem_wpp",
+      "confidence": 0.18146972358226776
+    }
+  },
+  {
+    "text": "vc é um humano",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "contato",
+      "confidence": 0.8656402230262756
+    }
+  },
+  {
+    "text": "quem e vc",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.4027250409126282
+    }
+  },
+  {
+    "text": "taís",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.2869760990142822
+    }
+  },
+  {
+    "text": "artistas beneficiados com a lei do incentivo a cultura",
+    "intent": "definicao_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.507352888584137
+    }
+  },
+  {
+    "text": "qual é o seu sexo",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.6488242745399475
+    }
+  },
+  {
+    "text": "como esta o tempo",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.20870831608772278
+    }
+  },
+  {
+    "text": "namaste",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.29814261198043823
+    }
+  },
+  {
+    "text": "bom dia",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.7723937630653381
+    }
+  },
+  {
+    "text": "adorei",
+    "intent": "elogios",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.29488053917884827
+    }
+  },
+  {
+    "text": "por favor",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.25929129123687744
+    }
+  },
+  {
+    "text": "ainda não sei",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.9700307250022888
+    }
+  },
+  {
+    "text": "nenhum",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.6811212301254272
+    }
+  },
+  {
+    "text": "já me ajudou",
+    "intent": "negar_despedir",
+    "intent_prediction": {
+      "name": "elogios",
+      "confidence": 0.8011532425880432
+    }
+  },
+  {
+    "text": "não quero saber",
+    "intent": "negar_despedir",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.46108782291412354
+    }
+  },
+  {
+    "text": "não sei",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.8597277998924255
+    }
+  },
+  {
+    "text": "como ter acesso",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "lei_rouanet_acessibilidade",
+      "confidence": 0.3377153277397156
+    }
+  },
+  {
+    "text": "lista de assuntos possiveis",
+    "intent": "o_que_sei_falar",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.22910088300704956
+    }
+  },
+  {
+    "text": "tudo bom",
+    "intent": "tudo_bem",
+    "intent_prediction": {
+      "name": "cumprimentar",
+      "confidence": 0.5766482949256897
+    }
+  },
+  {
+    "text": "merci",
+    "intent": "agradecimento",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.2254362851381302
+    }
+  },
+  {
+    "text": "arrecadado",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.6447474956512451
+    }
+  },
+  {
+    "text": "pecúnia",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.196401447057724
+    }
+  },
+  {
+    "text": "capital",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_geral",
+      "confidence": 0.22284890711307526
+    }
+  },
+  {
+    "text": "taxa",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.4577816426753998
+    }
+  },
+  {
+    "text": "insecao fiscal",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.9484174251556396
+    }
+  },
+  {
+    "text": "projetos que captaram recursos",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "captacao_quando_captar",
+      "confidence": 0.8463129997253418
+    }
+  },
+  {
+    "text": "projetos participantes",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.6943619847297668
+    }
+  },
+  {
+    "text": "quantos projetos foram aprovados este ano",
+    "intent": "lei_rouanet_quantidade_de_projetos_este_ano",
+    "intent_prediction": {
+      "name": "lei_rouanet_quantidade_de_projetos",
+      "confidence": 0.7601606845855713
+    }
+  },
+  {
+    "text": "quantidade de projetos aprovados este ano",
+    "intent": "lei_rouanet_quantidade_de_projetos_este_ano",
+    "intent_prediction": {
+      "name": "lei_rouanet_quantidade_de_projetos",
+      "confidence": 0.4865832030773163
+    }
+  },
+  {
+    "text": "quais a regras de elegibilidade no caso de empresas",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.6470016837120056
+    }
+  },
+  {
+    "text": "dinheiro indevido",
+    "intent": "lei_rouanet_denuncia",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.5341765284538269
+    }
+  },
+  {
+    "text": "valor",
+    "intent": "lei_rouanet_remuneracao_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_projeto",
+      "confidence": 0.847615122795105
+    }
+  },
+  {
+    "text": "ordenado",
+    "intent": "lei_rouanet_remuneracao_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.1599436104297638
+    }
+  },
+  {
+    "text": "há um limite de preço a ser executado por produto realizado",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.24589818716049194
+    }
+  },
+  {
+    "text": "qual o limite de valor das entradas",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_projeto",
+      "confidence": 0.3361465334892273
+    }
+  },
+  {
+    "text": "valor da entrada",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "salic_preenchimento_valor_ingresso",
+      "confidence": 0.3485702872276306
+    }
+  },
+  {
+    "text": "marca",
+    "intent": "lei_rouanet_promocao_de_marca",
+    "intent_prediction": {
+      "name": "lei_rouanet_divulgacao_patrocinio",
+      "confidence": 0.824340283870697
+    }
+  },
+  {
+    "text": "por onde a proposta passa para ser aprovada",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.5788422226905823
+    }
+  },
+  {
+    "text": "etapas projeto",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_definicao_etapas",
+      "confidence": 0.8031368851661682
+    }
+  },
+  {
+    "text": "queria saber qual o teto para o projeto",
+    "intent": "lei_rouanet_valor_maximo_projeto",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.17540225386619568
+    }
+  },
+  {
+    "text": "microempresario individual",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.957539439201355
+    }
+  },
+  {
+    "text": "se encaixa na 1",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.30155032873153687
+    }
+  },
+  {
+    "text": "Parentes pode participar do mesmo projeto",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.951235830783844
+    }
+  },
+  {
+    "text": "parentes podem ser patrocinador",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.36222103238105774
+    }
+  },
+  {
+    "text": "financiar",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.41086816787719727
+    }
+  },
+  {
+    "text": "quero recuperar dinheiro que gastei do meu bolso com o projeto",
+    "intent": "lei_rouanet_reembolso_despesa",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.38267362117767334
+    }
+  },
+  {
+    "text": "quero tentar ter a lei de incentivo para fomentar um programa de tradição caipira",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "captacao_quando_captar",
+      "confidence": 0.1502261757850647
+    }
+  },
+  {
+    "text": "para ter o incentivo quais propostas são validas",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.372332900762558
+    }
+  },
+  {
+    "text": "gostaria de financiar meus filmes",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.437423974275589
+    }
+  },
+  {
+    "text": "livro",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.31256502866744995
+    }
+  },
+  {
+    "text": "regulamento para inscrição de obras",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.5551804304122925
+    }
+  },
+  {
+    "text": "orientações para elaborar um projeto",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.3800432085990906
+    }
+  },
+  {
+    "text": "como funciona a lei rouanet",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "lei_rouanet_o_que_eh",
+      "confidence": 0.6239431500434875
+    }
+  },
+  {
+    "text": "enviar proposta",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.7974111437797546
+    }
+  },
+  {
+    "text": "enviar projeto",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.9475106596946716
+    }
+  },
+  {
+    "text": "projeto aprovado",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.8878995180130005
+    }
+  },
+  {
+    "text": "defina prestação de contas",
+    "intent": "processo_analise_de_resultados",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.8685413002967834
+    }
+  },
+  {
+    "text": "qual o prazo",
+    "intent": "processo_prazo_apresentar_proposta",
+    "intent_prediction": {
+      "name": "processo_prazo",
+      "confidence": 0.9205659031867981
+    }
+  },
+  {
+    "text": "não quero entrar com o recurso",
+    "intent": "processo_prazo_desistir_recurso",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.4534637928009033
+    }
+  },
+  {
+    "text": "a planilha orçamentária não aparece",
+    "intent": "salic_erros_planilha_desapareceu",
+    "intent_prediction": {
+      "name": "salic_preenchimento_planilha_orcamentaria",
+      "confidence": 0.8418553471565247
+    }
+  },
+  {
+    "text": "não sei achar minha proposta",
+    "intent": "salic_erros_achar_proposta",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.6347479224205017
+    }
+  },
+  {
+    "text": "instruções de preenchimento",
+    "intent": "salic_preenchimento",
+    "intent_prediction": {
+      "name": "processo_preenchimento",
+      "confidence": 0.29524099826812744
+    }
+  },
+  {
+    "text": "entregar prestação de contas",
+    "intent": "salic_preenchimento_comprovacao_financeira",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.9397383332252502
+    }
+  },
+  {
+    "text": "quando começa a arrecadação de dinheiro",
+    "intent": "captacao_quando_captar",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.691011369228363
+    }
+  },
+  {
+    "text": "a captação já pode ser feita",
+    "intent": "captacao_quando_captar",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.5828884243965149
+    }
+  },
+  {
+    "text": "em quanto tempo posso captar",
+    "intent": "captacao_quando_captar",
+    "intent_prediction": {
+      "name": "processo_prazo_periodo_captacao",
+      "confidence": 0.48309949040412903
+    }
+  },
+  {
+    "text": "contratar captação",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "captacao",
+      "confidence": 0.3497280478477478
+    }
+  },
+  {
+    "text": "deus é fiel",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.31435614824295044
+    }
+  },
+  {
+    "text": "até logo",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.8491291403770447
+    }
+  },
+  {
+    "text": "sayonara",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.15912029147148132
+    }
+  },
+  {
+    "text": "amei",
+    "intent": "elogios",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.9372705817222595
+    }
+  },
+  {
+    "text": "ta",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.692604660987854
+    }
+  },
+  {
+    "text": "ok",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "cumprimentar",
+      "confidence": 0.3144236207008362
+    }
+  },
+  {
+    "text": "falei errado",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "erro_resposta_utter",
+      "confidence": 0.9055916666984558
+    }
+  },
+  {
+    "text": "nada",
+    "intent": "negar_despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.2793440520763397
+    }
+  },
+  {
+    "text": "como",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.41391482949256897
+    }
+  },
+  {
+    "text": "não entendi",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.6848613619804382
+    }
+  },
+  {
+    "text": "nao entendi",
+    "intent": "diga_mais",
+    "intent_prediction": {
+      "name": "negar",
+      "confidence": 0.6186246275901794
+    }
+  },
+  {
+    "text": "bom dia flor do dia",
+    "intent": "tudo_bem",
+    "intent_prediction": {
+      "name": "cumprimentar",
+      "confidence": 0.8922185301780701
+    }
+  },
+  {
+    "text": "quem te programou",
+    "intent": "quem_criou_a_tais",
+    "intent_prediction": {
+      "name": "lei_rouanet_tipos_projeto",
+      "confidence": 0.3277020752429962
+    }
+  },
+  {
+    "text": "programou",
+    "intent": "quem_criou_a_tais",
+    "intent_prediction": {
+      "name": "lei_rouanet_tipos_projeto",
+      "confidence": 0.4129703938961029
+    }
+  },
+  {
+    "text": "empresa propor lei incentivo",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_o_que_eh",
+      "confidence": 0.42868852615356445
+    }
+  },
+  {
+    "text": "como me inscrever",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.8136173486709595
+    }
+  },
+  {
+    "text": "quem paga",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "lei_rouanet_pagamento",
+      "confidence": 0.6022994518280029
+    }
+  },
+  {
+    "text": "patrocinador",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.17391517758369446
+    }
+  },
+  {
+    "text": "os patrocinadores de projetos recebem",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.5537861585617065
+    }
+  },
+  {
+    "text": "como funciona a isenção fiscal",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.9749013185501099
+    }
+  },
+  {
+    "text": "art 26",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_contrapartidas_sociais",
+      "confidence": 0.4776337146759033
+    }
+  },
+  {
+    "text": "aprovados",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.3826600909233093
+    }
+  },
+  {
+    "text": "quem pode incentivar projetos culturais",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.45900487899780273
+    }
+  },
+  {
+    "text": "elegibilidade como pessoa juridica",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.9112826585769653
+    }
+  },
+  {
+    "text": "o proponente ganha alguma coisa",
+    "intent": "lei_rouanet_remuneracao_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.28670135140419006
+    }
+  },
+  {
+    "text": "como estabelecer preços de ingressos",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "salic_preenchimento_valor_ingresso",
+      "confidence": 0.3525976240634918
+    }
+  },
+  {
+    "text": "como devo distribuir os ingressos",
+    "intent": "lei_rouanet_comercializacao_de_ingressos",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.2448754906654358
+    }
+  },
+  {
+    "text": "quais as etapas de aprovação de um projeto",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_aprovacao",
+      "confidence": 0.45686736702919006
+    }
+  },
+  {
+    "text": "o que eu tenho que fazer pra ser aprovado na lei rouanet",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.7440176606178284
+    }
+  },
+  {
+    "text": "quero mandar um projeto na lei rouanet, o que eu tenho que fazer",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_o_que_eh",
+      "confidence": 0.2687074840068817
+    }
+  },
+  {
+    "text": "tempo de análise",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_prazo_analise_proposta",
+      "confidence": 0.6815274953842163
+    }
+  },
+  {
+    "text": "análise técnica",
+    "intent": "lei_rouanet_analise_tecnica",
+    "intent_prediction": {
+      "name": "processo_prazo_analise_tecnica",
+      "confidence": 0.8410919904708862
+    }
+  },
+  {
+    "text": "minha proposta pode atingir qual valor",
+    "intent": "lei_rouanet_valor_maximo_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.3498830497264862
+    }
+  },
+  {
+    "text": "opção um",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.504177987575531
+    }
+  },
+  {
+    "text": "sociedade limitada",
+    "intent": "lei_rouanet_valor_maximo_pessoa_juridica",
+    "intent_prediction": {
+      "name": "lei_rouanet_contrapartidas_sociais",
+      "confidence": 0.23946239054203033
+    }
+  },
+  {
+    "text": "todas as opcoes",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.48441240191459656
+    }
+  },
+  {
+    "text": "geral",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+      "confidence": 0.812365710735321
+    }
+  },
+  {
+    "text": "todas as empresas",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_incentivar",
+      "confidence": 0.487163245677948
+    }
+  },
+  {
+    "text": "pais",
+    "intent": "lei_rouanet_receber_incetivo_de_parentes",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.23804272711277008
+    }
+  },
+  {
+    "text": "quais projetos podem participar da lei",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.9887399673461914
+    }
+  },
+  {
+    "text": "festival de música",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_fisica",
+      "confidence": 0.3093577027320862
+    }
+  },
+  {
+    "text": "como são aprovados os projetos",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.576433539390564
+    }
+  },
+  {
+    "text": "como aprovar um projeto",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "lei_rouanet_etapas_aprovacao_projeto",
+      "confidence": 0.5500767827033997
+    }
+  },
+  {
+    "text": "aprovar projeto",
+    "intent": "processo_aprovacao",
+    "intent_prediction": {
+      "name": "lei_rouanet_etapas_aprovacao_projeto",
+      "confidence": 0.6284000873565674
+    }
+  },
+  {
+    "text": "prazos",
+    "intent": "processo_prazo",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.6463083028793335
+    }
+  },
+  {
+    "text": "prazo de encerramento edital salic",
+    "intent": "processo_prazo_apresentar_proposta",
+    "intent_prediction": {
+      "name": "lei_rouanet_edital",
+      "confidence": 0.37677112221717834
+    }
+  },
+  {
+    "text": "apresentacao de proposta",
+    "intent": "processo_prazo_apresentar_proposta",
+    "intent_prediction": {
+      "name": "lei_rouanet_apresentacao_de_proposta",
+      "confidence": 0.49361440539360046
+    }
+  },
+  {
+    "text": "cadastro",
+    "intent": "salic_cadastro_usuario",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.5075127482414246
+    }
+  },
+  {
+    "text": "não acho minha proposta",
+    "intent": "salic_erros_achar_proposta",
+    "intent_prediction": {
+      "name": "processo_reativacao_de_proposta",
+      "confidence": 0.25385352969169617
+    }
+  },
+  {
+    "text": "modificar proponente",
+    "intent": "salic_preenchimento_alteracao_proponente",
+    "intent_prediction": {
+      "name": "captacao_como_captar",
+      "confidence": 0.29069647192955017
+    }
+  },
+  {
+    "text": "prestação de contas",
+    "intent": "salic_preenchimento_comprovacao_financeira",
+    "intent_prediction": {
+      "name": "processo_prazo_prestacao_contas",
+      "confidence": 0.734033465385437
+    }
+  },
+  {
+    "text": "depois de aprovado quem vai pegar o dinheiro liberado",
+    "intent": "captacao_como_captar",
+    "intent_prediction": {
+      "name": "salic_preenchimento_comprovacao_financeira",
+      "confidence": 0.2990981936454773
+    }
+  },
+  {
+    "text": "vc é homem ou mulher",
+    "intent": "definicao_tais",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.5368329882621765
+    }
+  },
+  {
+    "text": "gostaria de ter acesso aos projetos inscritos na Lei de Incentivo",
+    "intent": "definicao_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.2849232852458954
+    }
+  },
+  {
+    "text": "projetos aprovados",
+    "intent": "definicao_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quantidade_de_projetos",
+      "confidence": 0.7299070954322815
+    }
+  },
+  {
+    "text": "corrupção",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_pessoa_juridica",
+      "confidence": 0.3326834738254547
+    }
+  },
+  {
+    "text": "voce torce pra qual time",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "lei_rouanet_intermediacao",
+      "confidence": 0.2555354833602905
+    }
+  },
+  {
+    "text": "flw vlw",
+    "intent": "despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_custo_vinculado",
+      "confidence": 0.2845577597618103
+    }
+  },
+  {
+    "text": "opa",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "quem_criou_a_tais",
+      "confidence": 0.27736932039260864
+    }
+  },
+  {
+    "text": "oi tais",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.5425763726234436
+    }
+  },
+  {
+    "text": "posso falar com voce",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "contato",
+      "confidence": 0.4369567632675171
+    }
+  },
+  {
+    "text": "se não for incomodo",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "salic_erros_achar_proposta",
+      "confidence": 0.21596328914165497
+    }
+  },
+  {
+    "text": "me explique",
+    "intent": "afirmar",
+    "intent_prediction": {
+      "name": "lei_rouanet_o_que_eh",
+      "confidence": 0.7712658643722534
+    }
+  },
+  {
+    "text": "nunca",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "lei_rouanet_denuncia",
+      "confidence": 0.7526252269744873
+    }
+  },
+  {
+    "text": "escolhi errado",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "erro_resposta_utter",
+      "confidence": 0.44683030247688293
+    }
+  },
+  {
+    "text": "quero falar sobre outra coisa",
+    "intent": "negar_despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.3583090007305145
+    }
+  },
+  {
+    "text": "ainda nao sei escolher um tópico",
+    "intent": "negar_despedir",
+    "intent_prediction": {
+      "name": "lei_rouanet_democratizacao",
+      "confidence": 0.2124669849872589
+    }
+  },
+  {
+    "text": "menu",
+    "intent": "o_que_sei_falar",
+    "intent_prediction": {
+      "name": "afirmar",
+      "confidence": 0.5551415085792542
+    }
+  },
+  {
+    "text": "erro",
+    "intent": "erro_resposta_utter",
+    "intent_prediction": {
+      "name": "salic_erros",
+      "confidence": 0.4395116865634918
+    }
+  },
+  {
+    "text": "obrigada",
+    "intent": "agradecimento",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.7374518513679504
+    }
+  },
+  {
+    "text": "obrigado",
+    "intent": "agradecimento",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.7034639716148376
+    }
+  },
+  {
+    "text": "eu ligo para quem para falar sobre o cadastro no salic",
+    "intent": "contato",
+    "intent_prediction": {
+      "name": "salic_cadastro_usuario",
+      "confidence": 0.5354797840118408
+    }
+  },
+  {
+    "text": "Lei de Incentivo a Cultura",
+    "intent": "lei_rouanet_o_que_eh",
+    "intent_prediction": {
+      "name": "processo_como_funciona",
+      "confidence": 0.668361246585846
+    }
+  },
+  {
+    "text": "quais sao as peculiaridades do proponente da Lei de Incentivo a cultura",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "lei_rouanet_tipos_projeto",
+      "confidence": 0.32120585441589355
+    }
+  },
+  {
+    "text": "parentes de proponente podem apresentar projetos",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.5364861488342285
+    }
+  },
+  {
+    "text": "qual tipo de projeto pode ser apresentado na lei rouanet",
+    "intent": "lei_rouanet_quem_pode_ser_proponente",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.5188382267951965
+    }
+  },
+  {
+    "text": "quanto custa isso pro governo",
+    "intent": "lei_rouanet_origem_do_dinheiro",
+    "intent_prediction": {
+      "name": "negar_despedir",
+      "confidence": 0.36968716979026794
+    }
+  },
+  {
+    "text": "como financiar um projeto cultural",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_origem_do_dinheiro",
+      "confidence": 0.8653938174247742
+    }
+  },
+  {
+    "text": "empresas ganham alguma coisa ajudando meus projetos",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.5150576233863831
+    }
+  },
+  {
+    "text": "patrocínio",
+    "intent": "lei_rouanet_beneficios_incentivo_projetos_culturais",
+    "intent_prediction": {
+      "name": "lei_rouanet_divulgacao_patrocinio",
+      "confidence": 0.8940615057945251
+    }
+  },
+  {
+    "text": "como as empresas ganham alguma coisa ajudando meus projetos",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_remuneracao_proponente",
+      "confidence": 0.40219372510910034
+    }
+  },
+  {
+    "text": "quanto eu posso doar",
+    "intent": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+    "intent_prediction": {
+      "name": "lei_rouanet_valor_maximo_projeto",
+      "confidence": 0.46740564703941345
+    }
+  },
+  {
+    "text": "quantos projetos passaram pela lei",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.280931681394577
+    }
+  },
+  {
+    "text": "projetos agraciados",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.6861111521720886
+    }
+  },
+  {
+    "text": "media de projetos",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "lei_rouanet_intermediacao",
+      "confidence": 0.5324970483779907
+    }
+  },
+  {
+    "text": "numero de projetos",
+    "intent": "lei_rouanet_quantidade_de_projetos",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.8795325756072998
+    }
+  },
+  {
+    "text": "propostas aprovadas este ano",
+    "intent": "lei_rouanet_quantidade_de_projetos_este_ano",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.559124231338501
+    }
+  },
+  {
+    "text": "quero incentivar",
+    "intent": "lei_rouanet_quem_pode_incentivar",
+    "intent_prediction": {
+      "name": "lei_rouanet_receber_incetivo_de_parentes",
+      "confidence": 0.9749581217765808
+    }
+  },
+  {
+    "text": "salário",
+    "intent": "lei_rouanet_remuneracao_proponente",
+    "intent_prediction": {
+      "name": "salic_recuperacao_de_senha",
+      "confidence": 0.2407318353652954
+    }
+  },
+  {
+    "text": "rendimento",
+    "intent": "lei_rouanet_remuneracao_proponente",
+    "intent_prediction": {
+      "name": "processo_preenchimento",
+      "confidence": 0.24876941740512848
+    }
+  },
+  {
+    "text": "como faco pra aprovar um projeto no salic",
+    "intent": "lei_rouanet_etapas_aprovacao_projeto",
+    "intent_prediction": {
+      "name": "processo_aprovacao",
+      "confidence": 0.5224188566207886
+    }
+  },
+  {
+    "text": "apresentcaodeproposta",
+    "intent": "lei_rouanet_apresentacao_de_proposta",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.48673662543296814
+    }
+  },
+  {
+    "text": "analise tecnica",
+    "intent": "lei_rouanet_analise_tecnica",
+    "intent_prediction": {
+      "name": "processo_prazo_analise_tecnica",
+      "confidence": 0.8973681330680847
+    }
+  },
+  {
+    "text": "posso ter quantas propostas apresentadas",
+    "intent": "lei_rouanet_valor_maximo_projeto",
+    "intent_prediction": {
+      "name": "processo_prazo_apresentar_proposta",
+      "confidence": 0.7188385128974915
+    }
+  },
+  {
+    "text": "Quantos projetos o proponente pode inscrever",
+    "intent": "lei_rouanet_valor_maximo_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.8838509917259216
+    }
+  },
+  {
+    "text": "pessoa física",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "salic_erros_vinculo_cpf_cnpj",
+      "confidence": 0.23162759840488434
+    }
+  },
+  {
+    "text": "sou um artista",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "processo_prazo_diligencias",
+      "confidence": 0.19875605404376984
+    }
+  },
+  {
+    "text": "um",
+    "intent": "lei_rouanet_valor_maximo_pessoa_fisica",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.551662802696228
+    }
+  },
+  {
+    "text": "EIRELI",
+    "intent": "lei_rouanet_valor_maximo_pessoa_juridica",
+    "intent_prediction": {
+      "name": "definicao_tais",
+      "confidence": 0.3001401722431183
+    }
+  },
+  {
+    "text": "quero saber de tudo",
+    "intent": "lei_rouanet_valor_maximo_geral",
+    "intent_prediction": {
+      "name": "tudo_bem",
+      "confidence": 0.6417688131332397
+    }
+  },
+  {
+    "text": "como divulgar marca",
+    "intent": "lei_rouanet_divulgacao_patrocinio",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.8690384030342102
+    }
+  },
+  {
+    "text": "divulgação",
+    "intent": "lei_rouanet_divulgacao_patrocinio",
+    "intent_prediction": {
+      "name": "lei_rouanet_promocao_de_marca",
+      "confidence": 0.5545243620872498
+    }
+  },
+  {
+    "text": "musica instrumental entra em qual artigo da lei",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "processo_preenchimento",
+      "confidence": 0.1982114017009735
+    }
+  },
+  {
+    "text": "segmento formação Cultural",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "lei_rouanet_democratizacao",
+      "confidence": 0.7092680931091309
+    }
+  },
+  {
+    "text": "tipos de projetos",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.2629874348640442
+    }
+  },
+  {
+    "text": "projeto de literatura",
+    "intent": "lei_rouanet_tipos_projeto",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.5296517014503479
+    }
+  },
+  {
+    "text": "artigo 22",
+    "intent": "lei_rouanet_contrapartidas_sociais",
+    "intent_prediction": {
+      "name": "lei_rouanet_porcentagem_de_deducao_do_imposto",
+      "confidence": 0.958970308303833
+    }
+  },
+  {
+    "text": "projeto que escolhi",
+    "intent": "lei_rouanet_pagamento_direcionado",
+    "intent_prediction": {
+      "name": "definicao_projeto",
+      "confidence": 0.6678401827812195
+    }
+  },
+  {
+    "text": "como posso propor um projeto",
+    "intent": "processo_como_funciona",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.9621843099594116
+    }
+  },
+  {
+    "text": "proposta arquivada",
+    "intent": "processo_reativacao_de_proposta",
+    "intent_prediction": {
+      "name": "processo_prazo_desarquivar",
+      "confidence": 0.8846745491027832
+    }
+  },
+  {
+    "text": "prestacao de contas por omissao",
+    "intent": "processo_prazo_prestacao_contas",
+    "intent_prediction": {
+      "name": "salic_preenchimento_comprovacao_financeira",
+      "confidence": 0.6183319687843323
+    }
+  },
+  {
+    "text": "fazer prestação de contas",
+    "intent": "processo_prazo_prestacao_contas",
+    "intent_prediction": {
+      "name": "salic_preenchimento_comprovacao_financeira",
+      "confidence": 0.7115574479103088
+    }
+  },
+  {
+    "text": "prestacao de contas",
+    "intent": "processo_prazo_prestacao_contas",
+    "intent_prediction": {
+      "name": "salic_preenchimento_comprovacao_financeira",
+      "confidence": 0.6176421046257019
+    }
+  },
+  {
+    "text": "qual o endereço do salic",
+    "intent": "salic_cadastro_usuario",
+    "intent_prediction": {
+      "name": "endereco",
+      "confidence": 0.9227650761604309
+    }
+  },
+  {
+    "text": "perdi a planilha orçamentária",
+    "intent": "salic_erros_planilha_desapareceu",
+    "intent_prediction": {
+      "name": "salic_preenchimento_planilha_orcamentaria",
+      "confidence": 0.9044173955917358
+    }
+  },
+  {
+    "text": "perdi a proposta",
+    "intent": "salic_erros_achar_proposta",
+    "intent_prediction": {
+      "name": "lei_rouanet_quem_pode_ser_proponente",
+      "confidence": 0.38562098145484924
+    }
+  },
+  {
+    "text": "o ingresso do evento pode ser gratuito",
+    "intent": "salic_preenchimento_valor_ingresso",
+    "intent_prediction": {
+      "name": "lei_rouanet_comercializacao_de_ingressos",
+      "confidence": 0.6162771582603455
+    }
+  },
+  {
+    "text": "vincular proposta ao cpf",
+    "intent": "salic_preenchimento_vinculo_cpf_proposta",
+    "intent_prediction": {
+      "name": "salic_erros_vinculo_cpf_cnpj",
+      "confidence": 0.6708109974861145
+    }
+  },
+  {
+    "text": "despesa proponente",
+    "intent": "salic_preenchimento_comprovacao_financeira",
+    "intent_prediction": {
+      "name": "definicao_proponente",
+      "confidence": 0.2673141062259674
+    }
+  }
+]

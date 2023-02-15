@@ -1,0 +1,900 @@
+{
+  "erro_resposta_utter": {
+    "precision": 0.8181818181818182,
+    "recall": 0.75,
+    "f1-score": 0.7826086956521738,
+    "support": 12,
+    "confused_with": {
+      "negar": 2,
+      "salic_erros": 1
+    }
+  },
+  "lei_rouanet_porcentagem_de_deducao_do_imposto": {
+    "precision": 0.696969696969697,
+    "recall": 0.6764705882352942,
+    "f1-score": 0.6865671641791046,
+    "support": 34,
+    "confused_with": {
+      "lei_rouanet_origem_do_dinheiro": 5,
+      "lei_rouanet_remuneracao_proponente": 1
+    }
+  },
+  "processo_aprovacao": {
+    "precision": 0.7692307692307693,
+    "recall": 0.625,
+    "f1-score": 0.6896551724137931,
+    "support": 16,
+    "confused_with": {
+      "lei_rouanet_etapas_aprovacao_projeto": 3,
+      "definicao_projeto": 2
+    }
+  },
+  "captacao_quando_captar": {
+    "precision": 0.7619047619047619,
+    "recall": 0.8421052631578947,
+    "f1-score": 0.8,
+    "support": 19,
+    "confused_with": {
+      "processo_prazo_periodo_captacao": 1,
+      "lei_rouanet_promocao_de_marca": 1
+    }
+  },
+  "negar_despedir": {
+    "precision": 0.6,
+    "recall": 0.8275862068965517,
+    "f1-score": 0.6956521739130435,
+    "support": 29,
+    "confused_with": {
+      "lei_rouanet_remuneracao_proponente": 1,
+      "lei_rouanet_democratizacao": 1
+    }
+  },
+  "lei_rouanet_valor_maximo_pessoa_juridica": {
+    "precision": 0.5789473684210527,
+    "recall": 0.7333333333333333,
+    "f1-score": 0.6470588235294117,
+    "support": 15,
+    "confused_with": {
+      "definicao_tais": 1,
+      "lei_rouanet_valor_maximo_pessoa_fisica": 1
+    }
+  },
+  "elogios": {
+    "precision": 0.8666666666666667,
+    "recall": 0.7222222222222222,
+    "f1-score": 0.7878787878787877,
+    "support": 18,
+    "confused_with": {
+      "definicao_tais": 2,
+      "lei_rouanet_valor_maximo_pessoa_fisica": 1
+    }
+  },
+  "definicao_sefic": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8,
+    "confused_with": {}
+  },
+  "tudo_bem": {
+    "precision": 0.5,
+    "recall": 0.5454545454545454,
+    "f1-score": 0.5217391304347826,
+    "support": 11,
+    "confused_with": {
+      "cumprimentar": 3,
+      "out_of_scope": 1
+    }
+  },
+  "definicao_cnic": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "lei_rouanet_receber_incetivo_de_parentes": {
+    "precision": 0.7777777777777778,
+    "recall": 0.7241379310344828,
+    "f1-score": 0.75,
+    "support": 29,
+    "confused_with": {
+      "lei_rouanet_quem_pode_ser_proponente": 2,
+      "definicao_tais": 1
+    }
+  },
+  "lei_rouanet_acessibilidade": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 19,
+    "confused_with": {}
+  },
+  "lei_rouanet_tipos_projeto": {
+    "precision": 0.7142857142857143,
+    "recall": 0.3448275862068966,
+    "f1-score": 0.46511627906976755,
+    "support": 29,
+    "confused_with": {
+      "lei_rouanet_receber_incetivo_de_parentes": 3,
+      "captacao_quando_captar": 2
+    }
+  },
+  "agradecimento": {
+    "precision": 0.9166666666666666,
+    "recall": 0.6875,
+    "f1-score": 0.7857142857142857,
+    "support": 16,
+    "confused_with": {
+      "negar_despedir": 2,
+      "captacao": 1
+    }
+  },
+  "salic_cadastro_proponente": {
+    "precision": 0.8181818181818182,
+    "recall": 1.0,
+    "f1-score": 0.9,
+    "support": 9,
+    "confused_with": {}
+  },
+  "lei_rouanet_apresentacao_de_proposta": {
+    "precision": 0.75,
+    "recall": 0.5,
+    "f1-score": 0.6,
+    "support": 6,
+    "confused_with": {
+      "processo_prazo_apresentar_proposta": 3
+    }
+  },
+  "captacao_como_captar": {
+    "precision": 0.8823529411764706,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.7894736842105262,
+    "support": 21,
+    "confused_with": {
+      "lei_rouanet_remuneracao_proponente": 1,
+      "captacao_quando_captar": 1
+    }
+  },
+  "salic_recuperacao_de_senha": {
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1-score": 0.9500000000000001,
+    "support": 20,
+    "confused_with": {
+      "salic_cadastro_usuario": 1
+    }
+  },
+  "salic_erros_vinculo_cpf_cnpj": {
+    "precision": 0.7272727272727273,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.7999999999999999,
+    "support": 9,
+    "confused_with": {
+      "salic_preenchimento_vinculo_cpf_proposta": 1
+    }
+  },
+  "lei_rouanet_quantidade_de_projetos_este_ano": {
+    "precision": 0.9473684210526315,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.9,
+    "support": 21,
+    "confused_with": {
+      "lei_rouanet_quantidade_de_projetos": 2,
+      "definicao_projeto": 1
+    }
+  },
+  "processo_prazo_desistir_recurso": {
+    "precision": 1.0,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.9600000000000001,
+    "support": 13,
+    "confused_with": {
+      "negar_despedir": 1
+    }
+  },
+  "lei_rouanet_valor_maximo_projeto": {
+    "precision": 0.875,
+    "recall": 0.8974358974358975,
+    "f1-score": 0.8860759493670887,
+    "support": 39,
+    "confused_with": {
+      "lei_rouanet_quem_pode_ser_proponente": 2,
+      "processo_prazo_apresentar_proposta": 1
+    }
+  },
+  "salic_erros": {
+    "precision": 0.9285714285714286,
+    "recall": 1.0,
+    "f1-score": 0.962962962962963,
+    "support": 13,
+    "confused_with": {}
+  },
+  "lei_rouanet_beneficios_incentivo_projetos_culturais": {
+    "precision": 0.7083333333333334,
+    "recall": 0.7083333333333334,
+    "f1-score": 0.7083333333333334,
+    "support": 24,
+    "confused_with": {
+      "lei_rouanet_origem_do_dinheiro": 2,
+      "lei_rouanet_remuneracao_proponente": 1
+    }
+  },
+  "salic_preenchimento": {
+    "precision": 1.0,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.8333333333333333,
+    "support": 7,
+    "confused_with": {
+      "processo_preenchimento": 2
+    }
+  },
+  "lei_rouanet_origem_do_dinheiro": {
+    "precision": 0.5454545454545454,
+    "recall": 0.5806451612903226,
+    "f1-score": 0.5625,
+    "support": 31,
+    "confused_with": {
+      "lei_rouanet_porcentagem_de_deducao_do_imposto": 5,
+      "lei_rouanet_beneficios_incentivo_projetos_culturais": 2
+    }
+  },
+  "lei_rouanet_valores_pagamento_caches": {
+    "precision": 0.96,
+    "recall": 1.0,
+    "f1-score": 0.9795918367346939,
+    "support": 24,
+    "confused_with": {}
+  },
+  "lei_rouanet_remanejamento": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "processo_admissibilidade": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8,
+    "confused_with": {}
+  },
+  "processo_preenchimento": {
+    "precision": 0.6,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.7058823529411764,
+    "support": 7,
+    "confused_with": {
+      "salic_preenchimento_planilha_orcamentaria": 1
+    }
+  },
+  "salic_preenchimento_valor_ingresso": {
+    "precision": 0.75,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.7826086956521738,
+    "support": 11,
+    "confused_with": {
+      "lei_rouanet_comercializacao_de_ingressos": 2
+    }
+  },
+  "definicao_tais": {
+    "precision": 0.7142857142857143,
+    "recall": 0.8064516129032258,
+    "f1-score": 0.7575757575757576,
+    "support": 31,
+    "confused_with": {
+      "tudo_bem": 2,
+      "lei_rouanet_valor_maximo_pessoa_juridica": 1
+    }
+  },
+  "diga_mais": {
+    "precision": 0.5555555555555556,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.4166666666666667,
+    "support": 15,
+    "confused_with": {
+      "negar": 3,
+      "negar_despedir": 3
+    }
+  },
+  "lei_rouanet_contador_advogado": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "salic_preenchimento_campo_custo_auditoria": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "lei_rouanet_quem_pode_ser_proponente": {
+    "precision": 0.6612903225806451,
+    "recall": 0.8367346938775511,
+    "f1-score": 0.7387387387387386,
+    "support": 49,
+    "confused_with": {
+      "lei_rouanet_tipos_projeto": 2,
+      "processo_prazo_apresentar_proposta": 2
+    }
+  },
+  "definicao_proponente": {
+    "precision": 0.8,
+    "recall": 0.8,
+    "f1-score": 0.8000000000000002,
+    "support": 5,
+    "confused_with": {
+      "lei_rouanet_quem_pode_ser_proponente": 1
+    }
+  },
+  "salic_erros_planilha_desapareceu": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 10,
+    "confused_with": {
+      "salic_preenchimento_planilha_orcamentaria": 2
+    }
+  },
+  "definicao_vinculada": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 12,
+    "confused_with": {}
+  },
+  "processo_analise_de_resultados": {
+    "precision": 1.0,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.9411764705882353,
+    "support": 9,
+    "confused_with": {
+      "processo_prazo_prestacao_contas": 1
+    }
+  },
+  "lei_rouanet_enquadramento": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "lei_rouanet_edital": {
+    "precision": 0.9615384615384616,
+    "recall": 0.9259259259259259,
+    "f1-score": 0.9433962264150944,
+    "support": 27,
+    "confused_with": {
+      "lei_rouanet_contrapartidas_sociais": 1,
+      "lei_rouanet_quem_pode_ser_proponente": 1
+    }
+  },
+  "processo_prazo_analise_tecnica": {
+    "precision": 0.8461538461538461,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.8799999999999999,
+    "support": 12,
+    "confused_with": {
+      "lei_rouanet_analise_tecnica": 1
+    }
+  },
+  "processo_prazo_diligencias": {
+    "precision": 0.9411764705882353,
+    "recall": 1.0,
+    "f1-score": 0.9696969696969697,
+    "support": 16,
+    "confused_with": {}
+  },
+  "salic_preenchimento_cadastro_rubrica_advogado_contador": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "salic_erros_achar_proposta": {
+    "precision": 0.8333333333333334,
+    "recall": 0.625,
+    "f1-score": 0.7142857142857143,
+    "support": 8,
+    "confused_with": {
+      "lei_rouanet_quem_pode_ser_proponente": 1,
+      "processo_reativacao_de_proposta": 1
+    }
+  },
+  "salic_preenchimento_planilha_orcamentaria": {
+    "precision": 0.9032258064516129,
+    "recall": 1.0,
+    "f1-score": 0.9491525423728813,
+    "support": 28,
+    "confused_with": {}
+  },
+  "lei_rouanet_quem_pode_incentivar": {
+    "precision": 0.7777777777777778,
+    "recall": 0.5384615384615384,
+    "f1-score": 0.6363636363636364,
+    "support": 26,
+    "confused_with": {
+      "lei_rouanet_quem_pode_ser_proponente": 5,
+      "afirmar": 1
+    }
+  },
+  "endereco": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20,
+    "confused_with": {}
+  },
+  "processo_execucao": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 10,
+    "confused_with": {}
+  },
+  "lei_rouanet_valor_maximo_pessoa_fisica": {
+    "precision": 0.4666666666666667,
+    "recall": 0.5,
+    "f1-score": 0.4827586206896552,
+    "support": 14,
+    "confused_with": {
+      "lei_rouanet_valor_maximo_pessoa_juridica": 3,
+      "salic_erros_vinculo_cpf_cnpj": 1
+    }
+  },
+  "lei_rouanet_promocao_de_marca": {
+    "precision": 0.7575757575757576,
+    "recall": 0.8928571428571429,
+    "f1-score": 0.819672131147541,
+    "support": 28,
+    "confused_with": {
+      "lei_rouanet_divulgacao_patrocinio": 3
+    }
+  },
+  "lei_rouanet_denuncia": {
+    "precision": 0.9,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.8780487804878048,
+    "support": 21,
+    "confused_with": {
+      "definicao_projeto": 1,
+      "processo_prazo_envio_cnae": 1
+    }
+  },
+  "lei_rouanet_reembolso_despesa": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "lei_rouanet_origem_do_dinheiro": 1
+    }
+  },
+  "salic_erros_salvamento_de_proposta": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "salic_preenchimento_comprovacao_financeira": {
+    "precision": 0.8484848484848485,
+    "recall": 0.8484848484848485,
+    "f1-score": 0.8484848484848486,
+    "support": 33,
+    "confused_with": {
+      "processo_prazo_prestacao_contas": 4,
+      "definicao_proponente": 1
+    }
+  },
+  "lei_rouanet_comercializacao_de_ingressos": {
+    "precision": 0.7857142857142857,
+    "recall": 0.6470588235294118,
+    "f1-score": 0.7096774193548386,
+    "support": 17,
+    "confused_with": {
+      "salic_preenchimento_valor_ingresso": 3,
+      "lei_rouanet_valor_maximo_projeto": 1
+    }
+  },
+  "processo_prazo": {
+    "precision": 0.7777777777777778,
+    "recall": 0.7,
+    "f1-score": 0.7368421052631577,
+    "support": 10,
+    "confused_with": {
+      "processo_prazo_prestacao_contas": 1,
+      "processo_prazo_apresentar_proposta": 1
+    }
+  },
+  "processo_prazo_envio_cnae": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 11,
+    "confused_with": {}
+  },
+  "cumprimentar": {
+    "precision": 0.7647058823529411,
+    "recall": 0.7647058823529411,
+    "f1-score": 0.7647058823529412,
+    "support": 17,
+    "confused_with": {
+      "tudo_bem": 1,
+      "contato": 1
+    }
+  },
+  "lei_rouanet_pagamento": {
+    "precision": 0.8947368421052632,
+    "recall": 0.8947368421052632,
+    "f1-score": 0.8947368421052632,
+    "support": 19,
+    "confused_with": {
+      "lei_rouanet_origem_do_dinheiro": 2
+    }
+  },
+  "lei_rouanet_custo_vinculado": {
+    "precision": 0.9545454545454546,
+    "recall": 0.9545454545454546,
+    "f1-score": 0.9545454545454546,
+    "support": 22,
+    "confused_with": {
+      "lei_rouanet_divulgacao_patrocinio": 1
+    }
+  },
+  "lei_rouanet_quantidade_de_projetos": {
+    "precision": 0.7692307692307693,
+    "recall": 0.5,
+    "f1-score": 0.6060606060606061,
+    "support": 20,
+    "confused_with": {
+      "definicao_projeto": 5,
+      "lei_rouanet_quem_pode_ser_proponente": 1
+    }
+  },
+  "definicao_minc": {
+    "precision": 0.8181818181818182,
+    "recall": 0.9,
+    "f1-score": 0.8571428571428572,
+    "support": 10,
+    "confused_with": {
+      "lei_rouanet_origem_do_dinheiro": 1
+    }
+  },
+  "salic_cadastro_usuario": {
+    "precision": 0.6363636363636364,
+    "recall": 0.7,
+    "f1-score": 0.6666666666666666,
+    "support": 10,
+    "confused_with": {
+      "processo_como_funciona": 2,
+      "endereco": 1
+    }
+  },
+  "tem_wpp": {
+    "precision": 0.9583333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9787234042553191,
+    "support": 23,
+    "confused_with": {}
+  },
+  "salic_preenchimento_vinculo_cpf_proposta": {
+    "precision": 0.875,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.823529411764706,
+    "support": 9,
+    "confused_with": {
+      "salic_erros_vinculo_cpf_cnpj": 2
+    }
+  },
+  "lei_rouanet_remuneracao_proponente": {
+    "precision": 0.7692307692307693,
+    "recall": 0.8,
+    "f1-score": 0.7843137254901961,
+    "support": 25,
+    "confused_with": {
+      "lei_rouanet_valor_maximo_projeto": 1,
+      "processo_preenchimento": 1
+    }
+  },
+  "processo_prazo_apresentar_proposta": {
+    "precision": 0.6976744186046512,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.7692307692307693,
+    "support": 35,
+    "confused_with": {
+      "lei_rouanet_apresentacao_de_proposta": 1,
+      "processo_prazo": 1
+    }
+  },
+  "processo_prazo_prestacao_contas": {
+    "precision": 0.8,
+    "recall": 0.9032258064516129,
+    "f1-score": 0.8484848484848486,
+    "support": 31,
+    "confused_with": {
+      "salic_preenchimento_comprovacao_financeira": 3
+    }
+  },
+  "processo_prazo_desarquivar": {
+    "precision": 0.9444444444444444,
+    "recall": 1.0,
+    "f1-score": 0.9714285714285714,
+    "support": 17,
+    "confused_with": {}
+  },
+  "processo_prazo_analise_proposta": {
+    "precision": 0.7857142857142857,
+    "recall": 1.0,
+    "f1-score": 0.88,
+    "support": 11,
+    "confused_with": {}
+  },
+  "captacao": {
+    "precision": 0.85,
+    "recall": 1.0,
+    "f1-score": 0.9189189189189189,
+    "support": 17,
+    "confused_with": {}
+  },
+  "lei_rouanet_valor_maximo_geral": {
+    "precision": 0.7272727272727273,
+    "recall": 0.5,
+    "f1-score": 0.5925925925925926,
+    "support": 16,
+    "confused_with": {
+      "tudo_bem": 1,
+      "processo_prazo_prestacao_contas": 1
+    }
+  },
+  "lei_rouanet_o_que_eh": {
+    "precision": 0.75,
+    "recall": 0.8,
+    "f1-score": 0.7741935483870969,
+    "support": 15,
+    "confused_with": {
+      "processo_como_funciona": 2,
+      "lei_rouanet_quem_pode_ser_proponente": 1
+    }
+  },
+  "negar": {
+    "precision": 0.2,
+    "recall": 0.2,
+    "f1-score": 0.20000000000000004,
+    "support": 10,
+    "confused_with": {
+      "negar_despedir": 3,
+      "erro_resposta_utter": 2
+    }
+  },
+  "out_of_scope": {
+    "precision": 0.6666666666666666,
+    "recall": 0.2,
+    "f1-score": 0.30769230769230765,
+    "support": 10,
+    "confused_with": {
+      "definicao_tais": 2,
+      "lei_rouanet_valor_maximo_pessoa_juridica": 2
+    }
+  },
+  "processo_reativacao_de_proposta": {
+    "precision": 0.9411764705882353,
+    "recall": 0.9411764705882353,
+    "f1-score": 0.9411764705882353,
+    "support": 17,
+    "confused_with": {
+      "processo_prazo_desarquivar": 1
+    }
+  },
+  "lei_rouanet_divulgacao_patrocinio": {
+    "precision": 0.7727272727272727,
+    "recall": 0.8095238095238095,
+    "f1-score": 0.7906976744186046,
+    "support": 21,
+    "confused_with": {
+      "lei_rouanet_promocao_de_marca": 4
+    }
+  },
+  "lei_rouanet_pagamento_direcionado": {
+    "precision": 1.0,
+    "recall": 0.9333333333333333,
+    "f1-score": 0.9655172413793104,
+    "support": 15,
+    "confused_with": {
+      "definicao_projeto": 1
+    }
+  },
+  "processo_prazo_periodo_captacao": {
+    "precision": 0.9090909090909091,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8695652173913043,
+    "support": 12,
+    "confused_with": {
+      "captacao": 1,
+      "captacao_quando_captar": 1
+    }
+  },
+  "lei_rouanet_analise_de_admissibilidade": {
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1-score": 0.923076923076923,
+    "support": 6,
+    "confused_with": {}
+  },
+  "lei_rouanet_intermediacao": {
+    "precision": 0.9130434782608695,
+    "recall": 1.0,
+    "f1-score": 0.9545454545454545,
+    "support": 21,
+    "confused_with": {}
+  },
+  "contato": {
+    "precision": 0.9130434782608695,
+    "recall": 0.9130434782608695,
+    "f1-score": 0.9130434782608695,
+    "support": 23,
+    "confused_with": {
+      "salic_cadastro_usuario": 1,
+      "negar_despedir": 1
+    }
+  },
+  "lei_rouanet_etapas_aprovacao_projeto": {
+    "precision": 0.6153846153846154,
+    "recall": 0.4444444444444444,
+    "f1-score": 0.5161290322580646,
+    "support": 18,
+    "confused_with": {
+      "processo_prazo_analise_proposta": 2,
+      "processo_definicao_etapas": 2
+    }
+  },
+  "afirmar": {
+    "precision": 0.6111111111111112,
+    "recall": 0.5238095238095238,
+    "f1-score": 0.5641025641025642,
+    "support": 21,
+    "confused_with": {
+      "salic_erros_achar_proposta": 1,
+      "cumprimentar": 1
+    }
+  },
+  "salic_preenchimento_cadastro_fornecedor": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "lei_rouanet_recibo_mecenato": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "processo_definicao_etapas": {
+    "precision": 0.7272727272727273,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.7999999999999999,
+    "support": 9,
+    "confused_with": {
+      "lei_rouanet_etapas_aprovacao_projeto": 1
+    }
+  },
+  "lei_rouanet_analise_tecnica": {
+    "precision": 0.8,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.7272727272727272,
+    "support": 6,
+    "confused_with": {
+      "processo_prazo_analise_tecnica": 2
+    }
+  },
+  "definicao_projeto": {
+    "precision": 0.5833333333333334,
+    "recall": 0.84,
+    "f1-score": 0.6885245901639344,
+    "support": 25,
+    "confused_with": {
+      "lei_rouanet_beneficios_incentivo_projetos_culturais": 1,
+      "lei_rouanet_quem_pode_ser_proponente": 1
+    }
+  },
+  "processo_como_funciona": {
+    "precision": 0.7924528301886793,
+    "recall": 0.8235294117647058,
+    "f1-score": 0.8076923076923077,
+    "support": 51,
+    "confused_with": {
+      "processo_prazo_apresentar_proposta": 5,
+      "lei_rouanet_quem_pode_ser_proponente": 2
+    }
+  },
+  "lei_rouanet_democratizacao": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 20,
+    "confused_with": {}
+  },
+  "processo_prazo_readequacao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "despedir": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 9,
+    "confused_with": {
+      "lei_rouanet_remuneracao_proponente": 1,
+      "processo_como_funciona": 1
+    }
+  },
+  "salic_preenchimento_alteracao_proponente": {
+    "precision": 1.0,
+    "recall": 0.85,
+    "f1-score": 0.9189189189189189,
+    "support": 20,
+    "confused_with": {
+      "salic_cadastro_proponente": 2,
+      "captacao_como_captar": 1
+    }
+  },
+  "salic_preenchimento_cadastro_agencia_bancaria": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "quem_criou_a_tais": {
+    "precision": 0.9473684210526315,
+    "recall": 0.9,
+    "f1-score": 0.9230769230769231,
+    "support": 20,
+    "confused_with": {
+      "lei_rouanet_tipos_projeto": 2
+    }
+  },
+  "lei_rouanet_contrapartidas_sociais": {
+    "precision": 0.8636363636363636,
+    "recall": 0.9047619047619048,
+    "f1-score": 0.8837209302325582,
+    "support": 21,
+    "confused_with": {
+      "lei_rouanet_porcentagem_de_deducao_do_imposto": 2
+    }
+  },
+  "o_que_sei_falar": {
+    "precision": 0.9285714285714286,
+    "recall": 0.7647058823529411,
+    "f1-score": 0.8387096774193549,
+    "support": 17,
+    "confused_with": {
+      "negar_despedir": 2,
+      "lei_rouanet_remuneracao_proponente": 1
+    }
+  },
+  "accuracy": 0.8229398663697105,
+  "macro avg": {
+    "precision": 0.8360078981391146,
+    "recall": 0.8187774827511484,
+    "f1-score": 0.8192413582106345,
+    "support": 1796
+  },
+  "weighted avg": {
+    "precision": 0.8273592949952864,
+    "recall": 0.8229398663697105,
+    "f1-score": 0.8183128830888796,
+    "support": 1796
+  }
+}

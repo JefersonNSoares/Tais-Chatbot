@@ -1,0 +1,2164 @@
+nlu:
+- intent: captacao
+  examples: |
+    - como funciona a captação
+    - quero falar sobre captacao
+    - quero falar sobre captação
+    - tenho duvidas sobre captacao
+    - tenho dúvidas sobre captação
+    - voce sabe falar sobre captacao
+    - você sabe falar sobre captação
+    - dúvidas sobre captação
+    - duvidas sobre captacao
+    - dúvidas captação
+    - duvidas captacao
+    - falar captacao
+    - falar captação
+    - sobre captacao
+    - sobre captação
+    - captacao
+    - captação
+
+- intent: captacao_quando_captar
+  examples: |
+    - quando poderei efetuar a captação de recursos do meu projeto
+    - captação de recursos, quando fazer
+    - qual é o momento para fazer a captação de recursos
+    - quando fazer a captação de recursos do projeto
+    - quando posso começar a captação de recursos da minha proposta
+    - quando começa a captação
+    - a partir de quando posso começar a captar recursos
+    - quando a captação estará liberada
+    - captar recursos do projeto
+    - quero captar, quando posso iniciar
+    - quando começa a arrecadação de dinheiro
+    - quando eu começo a captar
+    - já enviei meu projeto, já posso captar
+    - quando preciso me preocupar com a captação
+    - quando se iniciará a fase de captação
+    - a captação já pode ser feita
+    - em quanto tempo posso captar
+    - eu submeti um projeto e quero saber quando posso começar a captar dinheiro
+    - como posso fazer para captar recursos
+
+
+- intent: captacao_como_captar
+  examples: |
+    - o próprio proponente do projeto pode captar os recursos para a sua execução
+    - o proponente pode captar o dinheiro para execucao
+    - quem pode ir captar o dinheiro para fazer o projeto
+    - pode contratar alguém pra captar dinheiro
+    - depois de aprovado quem vai pegar o dinheiro liberado
+    - posso contratar alguém pra captar pra mim
+    - quero contratar alguem pra captar recurso
+    - posso terceirizar a captacao de recursos
+    - gostaria de saber como captar
+    - onde acho os patrocinadores
+    - como captar
+    - proponente captação
+    - proponente dinheiro
+    - terceirizar captacao
+    - proponente pagamento
+    - pagamento proponente
+    - proponente recebimento
+    - proponente captar
+    - contratar captação
+    - proponente receber
+    - proponente ser pago
+
+- intent: definicao_tais
+  examples: |
+    - o que é tais
+    - o que significa tais
+    - o que e um chatbot
+    - o que significa uma assistente virtual
+    - o que é uma assistente virtual
+    - o que um chatbot faz
+    - o que você é
+    - o que voce e
+    - por que esse nome
+    - por que seu nome é tais
+    - qual significado de tais
+    - qual é seu nome
+    - qual sua tecnologia
+    - me conte mais sobre voce
+    - me fale sobre voce
+    - tais me fale sobre vc
+    - vc é homem ou mulher
+    - você é um robo
+    - vc é um humano
+    - você eh um robo
+    - quem é a tais
+    - quem é voce
+    - quem e vc
+    - definição de tais
+    - defina tais
+    - assistente virtual
+    - chatbot
+    - robo
+    - robô
+    - tais
+    - taís
+
+- intent: definicao_minc
+  examples: |
+    - o que é Minc
+    - o que significa Minc
+    - MinC é o ministério
+    - o que a sigla Minc significa
+    - qual o trabalho do Ministerio da Cultura 
+    - qual o trabalho do Ministério da Cultura 
+    - Ministerio
+    - Minc
+    - Minitério da Cultura
+    - quais as funções do Minc
+
+- intent: definicao_cnic
+  examples: |
+    - o que é CNIC
+    - o que significa CNIC
+    - quem é a CNIC
+    - o que significa a sigla CNIC
+    - qual o papel da cnic
+    - o que faz a cnic
+    - quem participa da cnic
+
+- intent: definicao_sefic
+  examples: |
+    - o que é Sefic
+    - o que significa Sefic
+    - Sefic é um orgão
+    - Sefic é do ministério
+    - o que é a sigla Sefic
+    - o que é SEFIC?
+    - qual o papel da sefic
+    - quem é a sefic
+
+- intent: definicao_projeto
+  examples: |
+    - o que é Projeto
+    - o que significa Projeto
+    - como se caracteriza um projeto
+    - como caracteriza um projeto
+    - lista de todos os projetos realizados pela Lei de incentivo
+    - gostaria de ter acesso aos projetos inscritos na Lei de Incentivo
+    - como eu posso acessar quem foram os beneficiados com a lei do incentivo a cultura
+    - artistas beneficiados com a lei do incentivo a cultura
+    - como consulto os projetos aprovados
+    - consultar projetos aprovados
+    - projetos aprovados
+    - propostas aprovadas
+    - número de pronac do projeto
+    - numero de pronac
+    - por que é um projeto
+    - consultar projetos
+    - projetos realizados pela lei de incentivo
+    - lista de todos os projetos
+    - se caracteriza um projeto
+    - caracteriza um projeto
+    - projeto aprovado
+    - proposta aprovada
+    - projeto cultural
+    - projeto
+    - pronac
+
+- intent: definicao_proposta
+  examples: |
+    - o que é Proposta
+    - o que significa Proposta
+    - como caracteriza uma proposta
+    - o que e uma proposta
+
+- intent: definicao_proponente
+  examples: |
+    - o que é Proponente
+    - o que significa Proponente
+    - o que um proponente faz
+    - quem é proponente
+    - qual o papel do proponente
+    
+
+- intent: definicao_salic
+  examples: |
+    - o que é SALIC
+    - o que significa Salic
+    - Salic é sigla de que
+    - o que é SALIC
+    - salic
+
+- intent: definicao_vinculada
+  examples: |
+    - o que é Vinculada
+    - o que significa Vinculada
+    - sobre vinculada
+    - o que sao vinculadas
+    - o que são vinculada
+    - Vinculada
+    - o que faz a vinculada
+    - qual o papel das vinculadas
+    - Funarte
+    - Iphan
+    - o que a Funarte faz
+    - qual o papel do iphan
+    
+- intent: out_of_scope
+  examples: |
+    - onde está o diheiro
+    - onde está o pablo vittar
+    - vagabundos
+    - bandidos
+    - corrupção
+    - deus é fiel
+    - qual é o seu sexo
+    - você esta aonde?
+    - voce torce pra qual time
+    - como esta o tempo
+
+- intent: despedir
+  examples: |
+    - tchau
+    - até logo
+    - namaste
+    - sayonara
+    - até mais
+    - até breve
+    - falou, valeu
+    - flw vlw
+    - até mais
+    - até a próxima
+
+- intent: cumprimentar
+  examples: |
+    - oi
+    - olá
+    - oie
+    - oiee
+    - opa
+    - ola boa tarde
+    - oi tais
+    - ola tais, tudo bom
+    - ola tais, que saudade de vc
+    - oi tais saudades
+    - oi, como vai você
+    - posso falar com voce
+    - pode me tirar uma duvida
+    - gostaria de tirar uma duvida
+    - bom dia
+    - boa tarde
+    - boa noite
+
+- intent: elogios
+  examples: |
+    - tais, você é muito educada!
+    - você me ajudou muito
+    - voce me ajudou muito
+    - vc me ajudou muito
+    - vc me ajudou mt
+    - me ajudou muito
+    - você é maravilhosa
+    - voce e maravilhosa
+    - você é linda
+    - voce e linda
+    - vc eh linda
+    - vc é ótima
+    - vc e otima
+    - maravilhosa
+    - educada
+    - linda
+    - adorei
+    - amei
+
+- intent: afirmar
+  examples: |
+    - se não for incomodo
+    - claro que sim
+    - posso sim
+    - gostaria sim
+    - sei bastante
+    - preenchi sim
+    - gostaria de saber mais
+    - gostaria de mais detalhes
+    - ja preenchi uma proposta
+    - sim, preenchi minha proposta
+    - quero
+    - por favor
+    - ja
+    - já
+    - sim
+    - ta
+    - ok
+    - claro
+    - confirmo
+    - mais ou menos
+    - me explique
+
+- intent: negar
+  examples: |
+    - nunca
+    - nao
+    - não
+    - nao conheco
+    - não quero
+    - escolhi errado
+    - falei errado
+    - duvida
+    - ainda não sei
+    - nenhum
+
+- intent: negar_despedir
+  examples: |
+    - não sei onde a minha pergunta se encaixa
+    - nao quero saber mais
+    - quero falar sobre outra coisa
+    - não quero saber de mais nada
+    - não tenho mais dúvidas
+    - não tenho mais perguntas
+    - você já me respondeu tudo
+    - nao era isso, me enganei
+    - não quero falar sobre isso
+    - ainda nao sei escolher um tópico
+    - ainda não pensei sobre isso
+    - nao sei do que quero falar
+    - não sei do que quero conversar
+    - já me respondeu
+    - já me ajudou
+    - só isso mesmo, obrigada
+    - so isso mesmo obrigada
+    - só isso mesmo, obrigado
+    - so isso mesmo obrigado
+    - só isso mesmo
+    - so isso mesmo
+    - não tenho mais perguntas
+    - não tenho mais dúvidas
+    - nao tenho mais duvidas
+    - não tenho mais
+    - não quero saber
+    - não obrigado
+    - nao obrigado
+    - não obrigada
+    - nao obrigada
+    - nada
+
+- intent: diga_mais
+  examples: |
+    - como funciona
+    - me diga mais
+    - como
+    - não entendi
+    - nao entendi
+    - não é isso
+    - nao eh isso
+    - como assim
+    - e como funciona
+    - e como faco isso
+    - como cadastra
+    - nao tenho certeza
+    - não sei
+    - por onde solicitar
+    - como ter acesso
+
+- intent: o_que_sei_falar
+  examples: |
+    - sobre o que você sabe falar
+    - o que mais você sabe falar
+    - quais assuntos você fala
+    - o que você sabe 
+    - lista de assuntos possiveis
+    - quais as perguntas vc responde
+    - quais as perquisar você responde
+    - quero ajuda
+    - meajuda
+    - meajude
+    - MEAJUD
+    - MEAJDA
+    - me ajuda
+    - me ajude
+    - ajuda eu
+    - ajuda
+    - menu
+
+- intent: tudo_bem
+  examples: |
+    - Tudo bem
+    - Como vocês esta
+    - como vc ta
+    - joia
+    - joinha
+    - tudo bom
+    - bom dia flor do dia
+    - Tudo bem e você
+    - como vc esta
+    - como vai vc
+    - esta tudo bem com você, Tais
+
+- intent: quem_criou_a_tais
+  examples: |
+    - como você foi construida
+    - como voce foi construída
+    - quem te criou
+    - quem te desenvolveu
+    - quem te programou
+    - você tem pai
+    - qual seu pai
+    - onde voce nasceu
+    - quando vc nasceu
+    - quem te fez
+    - quem te produziu
+    - quem é seu pai
+    - fez a tais
+    - criou a tais
+    - produziu a tais
+    - desenvolveu a tais
+    - desenvolveu
+    - criou
+    - produziu
+    - programou
+
+- intent: tem_wpp
+  examples: |
+    - vamos conversar pelo whatsapp
+    - vamos conversar pelo wpp
+    - vamos falar pelo wpp
+    - podemos conversar pelo whatsapp
+    - podemos conversar pelo zap
+    - podemos conversar pelo wpp
+    - me passa seu whatsapp
+    - me manda teu wpp
+    - me passa seu wpp
+    - me passa seu zap
+    - vc tem whatsapp
+    - você ta no whatapp
+    - voce ta no whatsapp
+    - vc tá no whatsapp
+    - você tem whatsapp
+    - você tem zap
+    - vc tem zap
+    - vc tem wpp
+    - você tem wpp
+    - vc ta no wpp
+    - whatsapp
+    - wpp
+    - zap
+
+- intent: erro_resposta_utter
+  examples: |
+    - #errou
+    - #erro
+    - errou
+    - erro
+    - #erou
+    - #errado
+    - errado
+    - respondeu errado
+    - voce errou
+    - voce respondeu errado
+    - resposta errada
+    - errou na resposta
+
+- intent:  agradecimento
+  examples: |
+    - perfeito muito agradecido
+    - obrigado tirou minhas duvidas
+    - obrigada por me ajudar
+    - obrigado por me ajudar
+    - obrigada, tais
+    - obrigado, tais
+    - agradecido
+    - agradecida
+    - obrigada
+    - obrigado
+    - grato
+    - grata
+    - thanks
+    - thank you
+    - merci
+    - gracias
+
+- intent:  contato
+  examples: |
+    - eu ligo para quem para falar sobre o cadastro no salic
+    - algum telefone que eu possa entrar em contato
+    - necessito de um telefone para falar sobre a lei rouanet
+    - pode me mandar um telefone para eu falar com alguma pessoa
+    - vc pode me mandar um telefone de alguém
+    - quero falar no telefone com alguém
+    - quero falar com uma pessoa
+    - eu preciso de um telefone de contato
+    - gostaria de conversar com o atendente humano
+    - telefone de contato
+    - quero entrar em contato
+    - me mande o telefone
+    - telefone de alguém
+    - telefone de alguma pessoa
+    - atendente humano
+    - e-mails dúvidas
+    - email duvidas
+    - e-mail duvidas
+    - contato perguntas
+    - telefone duvidas
+    - contato 
+    - telefone
+    - email
+
+- intent: endereco
+  examples: |
+    - quero saber o endereço da Secretaria Especial da Cultura
+    - quero saber o endereco da Secretaria Especial da Cultura
+    - como faço pra chegar na Secretaria Especial da Cultura
+    - como faco pra chegar na Secretaria Especial da Cultura
+    - qual o endereço da Secretaria Especial da Cultura
+    - qual o endereco da Secretaria Especial da Cultura
+    - me diz o endereço da Secretaria Especial da Cultura
+    - me fala o endereço da Secretaria Especial da Cultura
+    - endereço Secretaria Especial da Cultura
+    - endereco Secretaria Especial da CUltura
+    - qual o endereço do minc
+    - qual o endereco do Minc
+    - endereço Secretaria
+    - endereco Secretaria
+    - qual endereço
+    - qual endereco
+    - endereço minc
+    - endereco minc
+    - endereço
+    - endereco
+
+- intent: lei_rouanet_o_que_eh
+  examples: |
+    - o que é [lei rouanet](lei_rouanet)
+    - o que significa [ruane](lei_rouanet)
+    - Explique a [lei ruanê](lei_rouanet)
+    - o que é [lei ruanet](lei_rouanet)
+    - o que significa [lei rouanet](lei_rouanet)
+    - Explique a [lei ruane](lei_rouanet)
+    - o que é [lei rouane](lei_rouanet)
+    - o que significa [lei ruanet](lei_rouanet)
+    - Explique a [lei ruanê](lei_rouanet)
+    - o que é [lei rouanet](lei_rouanet)
+    - o que significa [lei rouanet](lei_rouanet)
+    - Explique a [lei rouanet](lei_rouanet)
+    - o que é [lei rouanet](lei_rouanet)
+    - o que significa [lei rouanê](lei_rouanet)
+    - Explique a [lei rouanet](lei_rouanet)
+    - fale sobre a [lei ruanê](lei_rouanet)
+    - [lei rouanet](lei_rouanet)
+    - Lei de Incentivo a Cultura
+    - Gostaria de saber curiosidades sobre a lei
+    - como funciona a lei rounet?    
+
+- intent: lei_rouanet_quem_pode_ser_proponente
+  examples: |
+    - quais sao as peculiaridades do proponente da Lei de Incentivo a cultura
+    - quem pode se inscrever na lei rouanet
+    - quem pode participar
+    - quem pode submeter projetos
+    - quem pode submeter uma proposta
+    - quem pode apresentar projetos
+    - quem pode apresentar proposta cultural
+    - quem pode apresentar proposta
+    - quem pode propor projetos via lei rouanet
+    - quem pode cadastrar projetos lei de incentivo
+    - quem pode se cadastrar na lei rouanet
+    - quem pode iniciar um projeto na lei rouanet
+    - quem pode se aplicar
+    - quem pode propor
+    - quem não pode participar
+    - quero participar da lei
+    - quero me tornar um proponente
+    - quero me inscrever na lei rouanet
+    - quero ser proponente
+    - posso me inscrever na lei rouanet
+    - posso ser preponente
+    - posso inscrever uma proposta como pessoa fisica
+    - eu posso usar a lei
+    - eu posso participar da lei rouanet 
+    - o proponente pode ser pessoa física ou jurídica
+    - o proponente pode ser pessoa fisica ou juridica
+    - parentes de proponente podem apresentar projetos
+    - parentes podem propor projetos
+    - pessoa física pode ser proponente
+    - quais projetos se encaixam na lei rouanet
+    - qualquer empresa pode apresentar um projeto
+    - empresa propor lei incentivo
+    - qualquer pessoa pode apresentar um projeto
+    - qualquer segmento cultural pode propor um projeto na lei rouanet
+    - qual tipo de projeto pode ser apresentado na lei rouanet
+    - como pessoa fisica eu posso inscrever uma proposta
+    - como ser proponente
+    - como me inscrever
+    - como me tornar proponente
+    - é necessário comprovar experiência cultural para ser proponente
+    - para submeter um projeto é preciso ter experiência na área
+    - é preciso ter experiência na área
+    - minha empresa pode ser proponente
+    - mei pode ser proponente
+    - tenho uma banda de musica posso propor um projeto 
+    - agente publico pode enviar propostas
+    - elegibilidade
+    - participar
+    - usar a lei
+
+- intent: lei_rouanet_origem_do_dinheiro
+  examples: |
+    - quanto dinheiro a lei movimenta
+    - quanto dinheiro a lei rouanet arrecada
+    - de onde vem o dinheiro da lei rouanet
+    - de onde vem o dinheiro usado na Lei
+    - o dinheiro da lei rouanet é público
+    - por que os cidadãos tem que pagar pelos projetos
+    - a lei rouanet usa dinheiro de empresas
+    - eu como cidadão posso contribuir para um projeto
+    - quanto a lei ja arrecadou
+    - o dinheiro da lei é privado ou público
+    - como funciona a isenção fiscal
+    - como funciona o recolhimento de dinheiro para os projetos
+    - quanto custa isso pro governo
+    - O Ministério da cultura é que dá o dinheiro
+    - o ministerio da dinheiro
+    - o Minc da dinheiro para lei
+    - como funciona o recolhimento de dinheiro para os projetos
+    - como os projetos recebem dinheiro
+    - como financiar um projeto cultural
+    - quero saber sobre o dinheiro dos projetos
+    - quanto custa isso pro governo
+    - dinheiro
+    - arrecadou
+    - arrecadar
+    - arrecadado
+    - isenção fiscal
+    - isencao fiscal
+    - pagar
+    - de onde vem
+    - quem paga
+    - quem patrocina  
+    - pecúnia
+    - capital
+
+- intent: lei_rouanet_beneficios_incentivo_projetos_culturais
+  examples: |
+    - tem beneficio para quem incentiva projeto
+    - tem algum benefício em incentivar projetos
+    - Quais são as vantagens de ter seu projeto incentivado
+    - que tipo de beneficios recebe ao incentivar
+    - que beneficios tem para quem incentiva
+    - um incentivador pode receber beneficio
+    - qual é a vantagem de incentivar
+    - qual e a vantagem de incentivar
+    - quais as vantagens de ser incentivador
+    - quais as vantagens para o patrocinador
+    - quais os beneficios de ser incentivador
+    - quais os beneficios de um patrocinador
+    - como financiar um projeto cultural
+    - empresas ganham alguma coisa ajudando meus projetos
+    - incentivo fiscal federal
+    - vantagem de incentivar
+    - vantagem incentivar
+    - beneficiados
+    - benefício
+    - patrocínio
+    - patrocinio
+    - incentivador
+    - patrocinador
+    - vantagem
+
+- intent: lei_rouanet_porcentagem_de_deducao_do_imposto
+  examples: |
+    - incentivadores de projetos podem deduzir quanto de impostos de renda
+    - quanto de imposto de renda incentivadores conseguem deduzir de impostos
+    - qual valor um incentivador consegue deduzir de imposto de renda
+    - caso eu incentive um projeto quanto eu vou abater do meu IR
+    - quanto é o abatimento no IR caso haja algum incentivo
+    - qual a porcentagem do imposto que vou abater após incentivar projetos
+    - qual é o desconto que recebo no IR ao incentivar um projeto
+    - qual a dedução de imposto de renda para incentivadores
+    - se eu incentivar eu vou ter dedução no meu imposto de renda
+    - sou incentivador quanto posso receber como dedução de imposto de renda
+    - os patrocinadores de projetos recebem
+    - porcentagem do valor arrecadado
+    - como funciona a isenção fiscal das empresas
+    - como as empresas ganham alguma coisa ajudando meus projetos
+    - como funciona a isenção fiscal
+    - quanto eu posso doar
+    - artigo 18
+    - artigo 26
+    - art 26
+    - art 18
+    - imposto de renda
+    - imposto
+    - dedução
+    - deduzir
+    - inferir
+    - porcentagem
+    - desconto
+    - abatimento
+    - abater
+    - taxa
+    - inseção fiscal
+    - insecao fiscal
+    - isencao
+    - isenção
+
+- intent: lei_rouanet_quantidade_de_projetos
+  examples: |
+    - quantos projetos foram aprovados
+    - quantos projetos foram incentivados
+    - quantos projetos participaram
+    - quantos projetos passaram pela lei
+    - quantos projetos usam a lei rouanet
+    - quantos projetos ja tiveram incentivo
+    - quantos projetos a lei rouanet aprovou
+    - quantidade de projetos incentivados
+    - quantidade de projetos aprovados
+    - qual estatistica de projetos participantes
+    - estatistica de projetos
+    - projetos que captaram recursos
+    - projetos participantes
+    - projetos incentivados
+    - projetos aprovados
+    - projetos agraciados
+    - projetos em execução
+    - media de projetos
+    - numero de projetos
+    - aprovados
+
+- intent: lei_rouanet_quantidade_de_projetos_este_ano
+  examples: |
+    - quantos projetos foram aprovados este ano
+    - quantidade de projetos aprovados este ano
+    - projetos aprovados em 2019
+    - projetos aprovados em 2018
+    - projetos aprovados em 2017
+    - projetos aprovados em 2016
+    - projetos aprovados em 2015
+    - projetos aprovados em 2014
+    - projetos aprovados em 2013
+    - projetos aprovados em 2012
+    - projetos aprovados este ano
+    - propostas aprovadas este ano
+    - aprovados este ano
+    - aprovados em 2019
+    - aprovados em 2018
+    - aprovados em 2017
+    - aprovados em 2016
+    - aprovados em 2015
+    - aprovados em 2014
+    - aprovados em 2013
+    - aprovados em 2012
+
+- intent: lei_rouanet_quem_pode_incentivar
+  examples: |
+    - qualquer empresa pode se beneficiar de incentivos fiscais, apoiando projetos culturais
+    - quais empresas podem se beneficiar ao apoiar projetos culturais
+    - que tipos de empresas podem se beneficiar ao apoiar projetos culturais
+    - Apoiando projetos culturais, qualquer empresa se beneficia
+    - empresas que se beneficiam ao apoiar projeto culturais
+    - como pessoa fisica como posso patrocinar
+    - quem pode patrocinar um proejto
+    - quem pode incentivar um proejto cultural
+    - quem pode incentivar projetos culturais
+    - tenho uma empresa e quero particiar da lei rouanet, como eu sei se posso
+    - qual o critério de elegibilidade para pessoas jurídicas
+    - toda empresa pode usar a lei rouanet
+    - tem alguma execeção para uma empresa não utilizar a lei rouanet
+    - quais a regras de elegibilidade no caso de empresas
+    - quero incentivar
+    - empresa
+    - empresas podem se beneficiar
+    - empresa se beneficiar
+    - elegibilidade como pessoa juridica
+    - participação empresa
+    - corporação
+    - organização
+    - firma
+    - estabelecimento
+    - instituição
+    - firma
+    - companhia
+
+- intent: lei_rouanet_denuncia
+  examples: |
+    - quero denunciar um projeto
+    - quero registrar uma denuncia
+    - como faço uma denuncia
+    - como funciona a denuncia
+    - qual o processo de denuncia
+    - uso do dinheiro de forma ilegal
+    - tenho um projeto para denuncia
+    - identifiquei uma irregularidade
+    - tem algo errado no projeto
+    - gostaria de saber como denunciar
+    - denuncia via ouvidoria
+    - denunciar fraude
+    - denunciar dirigente
+    - denunciar projeto
+    - dinheiro ilegal
+    - dinheiro indevido
+    - processo de denuncia
+    - mecanismo de denuncia
+    - registrar denuncia
+    - projeto ilegal
+    - como Denúncia de projetos
+
+- intent: lei_rouanet_remuneracao_proponente
+  examples: |
+    - o proponente autor do projeto é remunerado
+    - ha limite para remuneração do proponente
+    - existe remuneração para o proponente
+    - quanto e a remuneraçao do proponente
+    - o proponente recebe algo
+    - o proponente ganha alguma coisa
+    - qual o valor que recebe o proponente
+    - o proponente tem remuneracao
+    - o proponente recebe um salario
+    - o proponente tem direito a honorários
+    - qual limite para Remuneração do proponente
+    - quanto o proponente pode se remunerar
+    - qual a remuneração do proponente
+    - o proponente é remunerado
+    - o proponente e remunerado
+    - proponente é remunerado
+    - proponente e remunerado
+    - remuneração
+    - remunerado
+    - honorário
+    - salário
+    - valor
+    - recebe
+    - ordenado
+    - rendimento
+
+- intent: lei_rouanet_comercializacao_de_ingressos
+  examples: |
+    - os ingressos podem ser comercializados
+    - há um limite de preço a ser executado por produto realizado
+    - por quanto devo vender os ingressos do meu projeto
+    - como funciona a comercialização de ingressos
+    - qual deve ser o preço dos ingressos
+    - como estabelecer preços de ingressos
+    - há um limite de preço das entradas
+    - qual o limite de valor das entradas
+    - venda de ingresso
+    - valor da entrada
+    - comercialização do ingresso
+    - como vender a entrada
+    - qual deve ser o preço da entrada
+    - por qual valor devo vender a entrada
+    - pode ter entradas gratuitas
+    - como devo distribuir os ingressos
+    - quantos ingressos podem ser de graça
+    - há um limite de preço das entradas
+    - qual o limite de valor das entradas
+
+- intent: lei_rouanet_promocao_de_marca
+  examples: |
+    - é possível que o patrocinador faça a prospecção da sua marca em um projeto realizado com incentivo fiscal
+    - como o patrocinador pode ativar a sua marca no projeto
+    - em que condições a marca do patrocinador pode ser divulgada
+    - o patrocinador pode promover a sua marca
+    - a marca do patrcinador pode ser promovida
+    - a marca do patrocinador pode ser divulgada
+    - como o patrocinador pode usar o projeto para promover a sua marca
+    - a logo do patrocinador pode ser divulgada
+    - eu posso divulgar a logo do patrocinador
+    - a logo do patrocinador pode ficar visivel
+    - posso colocar a logo do patrocinador no banner
+    - a marca do patrocinador pode ser divulgada junto com o projeto
+    - a logo do patrocinador pode ser associada ao projeto
+    - como deve ser feita a divulgação da marca do patrocinador
+    - como a logo do patrocinador deve ser divulgada
+    - como promover a logo do patrocinador
+    - há limites para a promoção da marca do patrocinador
+    - como a marca do patrocinador deve ser promovida
+    - há regras para a divulgação da marca do patrocinador no projeto
+    - como a marca do patrocinador deve aparecer na divulgação
+    - divulgar a logo do patrocinador
+    - logo do patrocinador
+    - divulgação de marca
+    - divulgação de logo
+    - divulgar logo
+    - divulgar marca
+    - marca
+    - logo
+
+- intent: lei_rouanet_valores_pagamento_caches
+  examples: |
+    - quais os valores para pagamento de cachês em projetos realizados com incentivo fiscal
+    - há limites nos valores de pagamentos de cachês
+    - existe limite de pagamento de cachê
+    - qual o limite de pagamento de cachês
+    - quanto posso dar de cache para os artitas
+    - posso dar quanto de cache para meus funcionarios
+    - como funciona o pagamento de cache
+    - pagamento de cache para artista solo
+    - quanto cada artista do grupo pode receber de cache
+    - existe limite de pagamento para artistas
+    - valor de pagamento para artista solo e grupos artisticos
+    - quanto cada artista da peça pode receber
+    - valor cache
+    - pagamento de cachê
+    - pagamento de cache
+    - pagamento cachê
+    - limite de cache
+    - cache artista
+    - cachê projeto
+    - pagamento artista solo
+    - cache orquestra
+    - limite cache artista solo
+    - cachê
+    - cache
+
+- intent: lei_rouanet_etapas_aprovacao_projeto
+  examples: |
+    - quais as etapas de aprovação de um projeto
+    - o que tenho que fazer pra aprovar meu projeto
+    - que passos tenho que fazer durante a criação do projeto
+    - o que eu tenho que fazer pra ser aprovado na lei rouanet
+    - quais sao os passos pra mandar um projeto para avaliacao
+    - como faco pra aprovar um projeto no salic
+    - quero mandar um projeto na lei rouanet, o que eu tenho que fazer
+    - como funciona o processe de analise da proposta
+    - por onde a proposta passa para ser aprovada
+    - quem analisa a proposta de projeto ate a decisão final
+    - quanto tempo demora a analise
+    - tempo de análise
+    - tempo de analise
+    - etapas projeto
+    - passos submissao
+    - Andamento do projeto
+    - decisao final proposta
+    - etapas analise proposta
+
+- intent: lei_rouanet_apresentacao_de_proposta
+  examples: |
+    - #apresentaçãodeproposta
+    - #apresentcaodeproposta
+    - apresentaçãodeproposta
+    - apresentcaodeproposta
+    - apresentação de proposta
+    - apresentacao de proposta
+
+- intent: lei_rouanet_analise_de_admissibilidade
+  examples: |
+    - #análisedeadmissibilidade
+    - #analisedeadmissibilidade
+    - análisedeadmissibilidade
+    - analisedeadmissibilidade
+    - análise de admissibilidade
+    - analise de admissibilidade
+
+- intent: lei_rouanet_analise_tecnica
+  examples: |
+    - análisetécnica
+    - análisetecnica
+    - analisetecnica
+    - analisetécnica
+    - analisetecnica
+    - análisetécnica
+    - análisetecnica
+    - analisetecnica
+    - analisetécnica
+    - analisetecnica
+    - análise técnica
+    - analise tecnica
+
+- intent: lei_rouanet_analise_pela_cnic
+  examples: |
+    - análisepelacnic
+    - analisepelacnic
+    - análisepelacnic
+    - analisepelacnic
+    - análise pela cnic
+    - analise pela cnic
+
+- intent: lei_rouanet_decisao_final
+  examples: |
+    - decisãofinal
+    - decisaofinal
+    - decisãofinal
+    - decisaofinal
+    - decisão final
+    - decisao final
+
+- intent: lei_rouanet_valor_maximo_projeto
+  examples: |
+    - queria saber qual o teto para o projeto
+    - tem valor maximo de projetos
+    - qual e o valor maximo de projetos
+    - minha proposta pode atingir qual valor
+    - maior valor para um projeto
+    - maior valor de um projeto
+    - posso ter quantas propostas apresentadas
+    - quantos projetos posso ter
+    - tem limite de abertura de projetos
+    - quantos projetos posso ter em meu nome
+    - ha um valor maximo por projeto
+    - existe valor maximo para minha proposta
+    - meu projeto pode chegar a que valor
+    - quantos projetos pode ter pela lei de incentivo
+    - valor maximo de projeto
+    - valor maximo de proposta
+    - quantidade maxima de projetos
+    - quantidade maxima de propostas
+    - total de projetos em meu nome
+    - de quanto é o financiamento
+    - qual é o valor do financiamento
+    - Quantos projetos o proponente pode inscrever
+    - valor maximo por ano
+    - quantidade maxima
+    - valor maximo
+    - valor por ano
+    - quantidade por ano
+    - limite de projetos por ano
+    - limite de projetos por proponente
+    - ultrapassar o limite
+    - limite pode ser ultrapassado
+    - quantidade máxima de projetos pode ser ultrapassada
+    - ultrapassar limite de projetos
+    - aumentar limite de projetos
+    - valor minimo de projeto
+    - Valor minimo pra projeto
+    - projeto valor mínimo
+    - qual e o valor minimo pra projeto
+    - qual e o valor minimo de projetos
+
+- intent: lei_rouanet_valor_maximo_pessoa_fisica
+  examples: |
+    - pessoa fisica
+    - pessoa física
+    - MEI
+    - sou uma pessoa fisica
+    - sobre pessoa fisica
+    - sou um artista
+    - microempresario individual
+    - primeira opção
+    - primeiro tópico
+    - se encaixa na 1
+    - um
+    - de pessoa fisica
+    - opção um
+    - categoriga um
+
+- intent: lei_rouanet_valor_maximo_pessoa_juridica
+  examples: |
+    - pessoa juridica
+    - pessoa jurídica
+    - demais pessoas jurídicas
+    - demais pessoas juridicas
+    - sou uma pessoa juridica
+    - sou empresario individual
+    - empresario individual
+    - empresa individual de responsabilidade limitada
+    - EIRELI
+    - segunda opção
+    - segundo tópico
+    - sociedade limitada
+    - acho que na 2
+    - opção 2
+    - na segunda
+
+- intent: lei_rouanet_valor_maximo_geral
+  examples: |
+    - terceira opção
+    - terceiro tópico
+    - todas as opcoes
+    - geral
+    - quero saber de tudo
+    - todas as empresas
+    - todos os perfis
+    - sobre os dois perfis
+    - escolha 3
+    - na 3
+    - opção três
+    - três
+    - sobre todos
+    - todos os perfis
+    - os dois perfis
+    - sobre todos os perfis
+    - de todos
+
+- intent: lei_rouanet_divulgacao_patrocinio
+  examples: |
+    - como é feita a divulgação de patrocínio
+    - como e feita a divulgacao de patrocinio
+    - como promover marca do patrocinador
+    - como promover minha marca
+    - como fazer promoção de marca
+    - como fazer promocao de marca
+    - como fazer divulgação de marca
+    - como fazer divulgacao de marca
+    - como divulgar marca
+    - promover marca do patrocinador
+    - promoção de marca
+    - promocao de marca
+    - divulgacao de marca
+    - divulgação de marca
+    - marcas e produtos
+    - divulgação de patrocínio
+    - divulgacao de patrocinio
+    - prospecção comercial
+    - prospeccao comercial
+    - divulgação
+    - divulgacao
+
+- intent: lei_rouanet_receber_incetivo_de_parentes
+  examples: |
+    - meus parentes podem incentivar meu projeto
+    - meus pais podem incentivar meu projeto
+    - meus pais e tios podem incentivar meu projeto
+    - tem problema parentes incentivarem projetos
+    - tenho parentes que desejam incentivar meus projetos
+    - parentes incentivando meus projetos
+    - Parentes pode participar do mesmo projeto
+    - meu irmão ou irmã, tio ou tia, primo ou prima, mãe ou pai incentivar
+    - minha irmã quer incetivar meu projeto tem problema
+    - meu projeto pode ser incentivado pela minha família
+    - meus familiares podem incentivar meu projeto
+    - parentes podem ser patrocinador
+    - quero saber se meus parentes podem ajudar a financiar o meu projeto
+    - meus pais
+    - meus parentes
+    - meus tios
+    - minhas primas
+    - minha família
+    - minha familia
+    - incentivar
+    - incentivado
+    - incentivo
+    - familiares
+    - família
+    - parente
+    - ajudar
+    - financiar
+    - estimular
+    - pais
+
+- intent: lei_rouanet_democratizacao
+  examples: |
+    - o que é democratização do acesso e formação de plateia
+    - o que é democratização ao acesso
+    - o que é formação de plateia
+    - democratização de acesso formação de plateia
+    - formação de plateia e democratização do acesso
+    - é obrigatório realizar a formação de plateia
+    - é obrigatória realizar a formação de plateia
+    - é necessário a formação de plateia
+    - como funciona a democratização do acesso
+    - democratização de acesso à cultura
+    - democratização e plateia
+    - democratização de acesso
+    - obrigatoriedade de formação de plateia
+    - obrigatoriedade de democratização de acesso
+    - realizar formação de plateia
+    - promover o acesso cultural
+    - promover acesso à cultura
+    - formação de plateia
+    - democratizacao
+    - plateia
+
+- intent: lei_rouanet_remanejamento
+  examples: |
+    - como realizar o remanejamento <50% autorizado pelo minc
+    - como fazer o remanejamento <50% autorizado pelo minC
+    - como realizar um remanejamento orçamentário até 50%
+    - como faço o remanejamento <50% autorizado pelo minC
+    - como fazer o remanejamento até 50% pelo minc
+    - como realizar um remanejamento orçamentário
+    - como realizar o remanejamento até 50% pelo minc
+    - como o remanejamento até 50% pelo minc
+    - como funciona o remanejamento até 50%
+    - remanejamento menor que 50%
+    - remanejamento orçamentário
+    - remanejamento orgamentario
+    - como fazer remanejamento
+    - como faço remanejamento
+    - fazer remanejamento
+    - faço remanejamento
+    - remanejamento até 50%
+    - remanejamento <50%
+    - remanejamento 50%
+
+- intent: lei_rouanet_edital
+  examples: |
+    - onde encontro a instrução Normativa em vigor
+    - gostaria de saber mais sobre a IN 02/2019
+    - instrução normativa vigente
+    - instrução normativa em vigor
+    - normativa em vigor
+    - normativa vigente
+    - instrução normativa n° 2
+    - instrucao normativa n° 2
+    - instrução normativa número 2
+    - acessar a instrução normativa
+    - acessar normativa lei rouanet
+    - lei de incentivo à cultura atualizada
+    - lei rouanet atualizada
+    - IN 02/2019
+    - quero saber sobre o edital
+    - quero imprimir a lei
+    - saiu algum edital da cultura
+    - tem algum edital aberto
+    - edital da lei de incentivo à cultura
+    - edital culturas populares
+    - editais da cultura
+    - edital da lei rouanet
+    - edital da cultura
+    - edital da lei
+    - edital aberto
+    - o edital
+    - edital
+
+- intent: lei_rouanet_recibo_mecenato
+  examples: |
+    - não encontro o recibo de mecenato da link para download
+    - qual o link para download do rebico de mecenato
+    - preciso do link para download do recibo de mecenato
+    - preciso do link para baixar o recibo de mecenato
+    - como baixar o recibo de mecenato
+    - como fazer download do recibo de mecenato
+    - link para download do recibo de mecenato
+    - link para baixar o recibo de mecenato
+    - arquivo modelo recibo mecenato
+    - modelo de recibo mecenato
+    - download recibo de mecenato
+    - baixar recibo de mecenato
+    - link recibo de mecenato
+    - recibo de mecenato
+    - recibo mecenato
+    - mecenato
+
+- intent: lei_rouanet_reembolso_despesa
+  examples: |
+    - posso reembolsar o proponente de despesas pagas com recursos próprios
+    - posso reembolsar o proponente de despesas pagas com recursos proprios
+    - como fazer um reembolso de despesas pagas com recursos próprios
+    - quero recuperar dinheiro que gastei do meu bolso com o projeto
+    - como fazer um reembolso de despesa
+    - como posso ser reembolsado
+    - como fazer o reembolso
+    - posso ser reembolsado
+    - despesas pagas com recursos próprios
+    - despesas pagas com recurso proprios
+    - preciso ser reembolsado
+    - quero ser reembolsado
+    - quero reembolso
+    - conseguir reembolso
+    - realizer reembolso
+    - fazer reembolso
+    - ser reembolsado
+    - reembolso de despesa
+    - reembolsado
+    - reembolso
+
+- intent: lei_rouanet_tipos_projeto
+  examples: |
+    - quero tentar ter a lei de incentivo para fomentar um programa de tradição caipira
+    - quais são as áreas culturais contempladas pela lei de incentivo a cultura
+    - quais os artigos que devo enquadrar para banda musical
+    - quais são os projetos que podem fazer parte
+    - quais projetos podem participar da lei
+    - quais áreas culturais
+    - preciso verificar os projetos aptos para captar recursos via rouanet
+    - posso mandar proposta de residência artística
+    - musica instrumental entra em qual artigo da lei
+    - para ter o incentivo quais propostas são validas
+    - tipos de projeto que podem participar
+    - gostaria de financiar meus filmes
+    - shows podem ser patrocinados
+    - segmento formação Cultural
+    - áreas culturais
+    - segmentos culturais
+    - tipos de projetos
+    - incentivo a poesia
+    - festival de música
+    - turne internacional
+    - projeto de literatura
+    - projetos de restauro
+    - projetos de restauração
+    - restauração
+    - restauro
+    - peça de teatro
+    - peca de teatro
+    - livro
+    - show
+
+- intent: lei_rouanet_contrapartidas_sociais
+  examples: |
+    - contrapartida sociais lançado na proposta conforme solicitado no o Art. 22 da IN 2/2019
+    - contrapartida sociais lancado na proposta conforme solicitado no o Art. 22 da IN 2/2019
+    - o que são contrapartidas sociais
+    - gostaria de falar sobre contrapartida social
+    - gostaria de falar sobre contrapartida sociais
+    - dúvidas contrapartidas sociais
+    - quero saber sobre contrapartida social
+    - me explica o que são contrapartida sociais
+    - me fala sobre contrapartidas sociais
+    - contrapartidas sociais lançada na proposta
+    - contrapartida sociais lancada na proposta
+    - artigo 22 da IN 2/2019
+    - art. 22 da IN 2/2019
+    - dúvida contrapartidas sociais
+    - duvida contrapartidas sociais
+    - contrapartidas sociais
+    - contrapartida sociais
+    - contrapartidas
+    - contrapartida
+    - artigo 22
+    - art 22
+
+- intent: lei_rouanet_pagamento
+  examples: |
+    - posso fazer pagamento com transferência bancária
+    - posso fazer pagamento com transferencia bancaria
+    - posso fazer pagamento com transferência
+    - posso fazer pagamento com transferencia
+    - posso fazer pagamento com dinheiro
+    - posso fazer pagamento com cheque
+    - como posso fazer o pagamento
+    - como posso pagar
+    - transferência bancária
+    - transferencia bancaria
+    - pagamento com transferência
+    - pagamento com dinheiro
+    - pagamento com cheque
+    - transferência
+    - transferencia
+    - pagamento
+    - dinheiro
+    - cheque
+    - pagar
+
+- intent: lei_rouanet_acessibilidade
+  examples: |
+    - como que funciona a acessibilidade
+    - como que funciona acessibilidade
+    - como funciona a acessbilidade
+    - me explica o que é acessibilidade
+    - me explica o que e acessibilidade
+    - tenho dúvidas sobre acessibilidade
+    - tenho duvidas sobre acessibilidade
+    - dúvidas sobre acessibilidade
+    - duvidas sobre acessibilidade
+    - dúvida sobre acessibilidade
+    - duvida sobre acessibilidade
+    - o que é acessibilidade
+    - o que e acessibilidade
+    - funciona acessibilidade
+    - sobre acessibilidade
+    - sobre acessibilidade
+    - explica acessibilidade
+    - dúvida acessibilidade
+    - duvida acessibilidade
+    - acessibilidade
+
+- intent: lei_rouanet_intermediacao
+  examples: |
+    - o que significa intermediação
+    - o que significa intermediacao
+    - intermediação de proposta
+    - intermediacao de proposta
+    - o que é intermediação
+    - o que e intermediacao
+    - posso delegar minha proposta
+    - posso delegar meu projeto
+    - intermediação proposta
+    - intermediacao proposta
+    - intermediação de projeto
+    - intermediacao de projeto
+    - intermediação projeto
+    - intermediacao projeto
+    - proponente delegado
+    - delegar proponente
+    - delegar proposta
+    - delegar projeto
+    - intermediação
+    - intermediacao
+    - delegar
+
+- intent: lei_rouanet_contador_advogado
+  examples: |
+    - por que é obrigatória a contratação de profissionais de contabilidade e de advocacia para realização do projeto
+    - por que é obrigatória a contratação de profissionais de contabilidade para realização do projeto
+    - por que é obrigatória a contratação de profissionais de advocacia para realização do projeto
+    - por que preciso de um advogado para o projeto
+    - por que preciso de um contador para o projeto
+    - por que preciso de um advogado
+    - por que preciso de um contador
+    - por que tenho que contratar um advogado
+    - por que tenho que contratar um contador
+    - contratação de profissionais de contabilidade e de advocacia
+    - contratacao de profissionais de contabilidade e de advocacia
+    - contratação de profissionais de contabilidade
+    - contratação de proficionais de advocacia
+    - contratação de advogado
+    - contratação de contador
+    - contratar advogado
+    - contratar contador
+    - contabilidade
+    - advocacia
+
+- intent: lei_rouanet_custo_vinculado
+  examples: |
+    - preciso saber o que é custo vinculado
+    - quero saber o que é custo vinculado
+    - quero saber o que são custos vinculados
+    - quero saber o que sao custos vinculados
+    - o que significa custos vinculados
+    - o que significa custo vinculado
+    - o que são custos vinculados
+    - o que sao custos vinculados
+    - o que é um custo vinculado
+    - o que e um custo vinculado
+    - o que é custo vinculado
+    - o que e custo vinculado
+    - me explica custo vinculado
+    - explica custo vinculado
+    - custo administrativo
+    - um custo vinculado
+    - o custo vinculado
+    - custo divulgação
+    - custos vinculados
+    - custo vinculado
+    - custos
+    - custo
+
+- intent: lei_rouanet_pagamento_direcionado
+  examples: |
+    - como sei que meu pagamento será direcionado corretamente para o projeto que eu quero
+    - como sei que meu pagamento sera direcionado corretamente para o projeto que eu quero
+    - como posso saber que meu dinheiro foi direcionado para o projeto que eu quero
+    - como posso saber se meu dinheiro foi direcionado pro projeto que eu escolhi
+    - como posso saber que meu dinheiro foi pro projeto que eu quero
+    - quero saber se meu dinheiro foi pro projeto que eu incentivei
+    - meu dinheiro para projeto que eu incentivei
+    - meu pagamento direcionado para projeto
+    - projeto que eu quero incentivar
+    - meu pagamento direcionado
+    - meu dinheiro direcionado
+    - pagamento direcionado
+    - projeto que escolhi
+    - projeto que eu quero
+    - projeto que eu incentivei
+
+- intent: lei_rouanet_enquadramento
+  examples: |
+    - o que o enquadramento influencia no meu projeto
+    - onde meu projeto pode ser enquadrado
+    - quais categorias de enquadramento
+    - quais tipos de enquadramento
+    - categorias de enquadramento
+    - o que é enquadramento
+    - o que e enquadramento
+    - tipos de enquadramento
+    - tipos enquadramento
+    - enquadramento de proposta
+    - enquadramento de projeto
+    - enquadramento artigo 26
+    - enquadramento artigo 18
+    - enquadramento art 26
+    - enquadramento art 18
+    - enquadrar proposta
+    - enquadrar projeto
+    - enquadramento
+    - enquadrado
+    - enquadrar
+
+- intent: processo_como_funciona
+  examples: |
+    - regulamento para inscrição de obras
+    - quero cadastrar um projeto como devo proceder
+    - onde eu apresento um projeto para o fundo nacional de cultura
+    - como faço para enviar um projeto para o fundo nacional de cultura
+    - preciso de ajuda para submeter um projeto
+    - como consigo financiamento para meu projeto
+    - como se dá o financiamento de projetos
+    - orientações para elaborar um projeto
+    - como montar um projeto
+    - como funciona o processo
+    - como funciona a lei rouanet
+    - como faço para enviar um projeto
+    - como enviar uma proposta
+    - como é o processo de envio de projeto
+    - como criar um projeto
+    - como mandar um projeto
+    - como faço a proposta
+    - como fazer uma proposta cultural
+    - como fazer um projeto
+    - cadastrar proposta
+    - não consigo cadastrar-me
+    - quero cadastrar um projeto
+    - quero cadastrar meu projeto
+    - como cadastrar projeto
+    - como cadastrar projetos
+    - cadastrar projeto
+    - cadastrar minha empresa
+    - quero cadastrar projeto
+    - como submeter uma proposta
+    - como faço para cadastrar meu projeto
+    - como encaminhar a proposta
+    - como faço para colocar um projeto na lei de incentivo
+    - como incluir um projeto
+    - como faço para incluir um projeto na lei
+    - como posso propor um projeto
+    - como propor um projeto
+    - encaminhar minha proposta
+    - encaminhar proposta
+    - cadastrar meu projeto
+    - cadastrar minha proposta
+    - link para cadastrar projetos
+    - link para inserir projetos
+    - login para inserir o projeto
+    - por onde inscrevo
+    - inscrevo uma proposta
+    - inscrever uma proposta
+    - enviar proposta
+    - enviar projeto
+    - cadastrar-me
+    - inscrição
+    - inscrever
+
+- intent: processo_definicao_etapas
+  examples: |
+    - gostaria de saber o passo a passo na elaboração do projeto
+    - passo a passo projeto
+    - passo a passo etapas projeto
+    - fale sobre a definição das etapas
+    - quantas etapas tem
+    - me fale sobre as etapas
+    - quais as etapas da lei
+    - etapas da lei
+    - quais etapas existem
+
+- intent: processo_preenchimento
+  examples: |
+    - o que é preenchimento
+    - defina preenchimento
+    - o que devo fazer no preenchimento
+    - documentos necessários
+    - quais documentos anexar
+    - o que anexar no preenchimento
+    - preenchimento
+
+- intent: processo_admissibilidade
+  examples: |
+    - o que é admissibilidade
+    - sobre admissibilidade
+    - defina admissibilidade
+    - o que acontece na admissibilidade
+    - admissibilidade
+    - fase admissibilidade
+    - etapa admissibilidade
+    - qual a definição de admissibilidade
+
+- intent: processo_aprovacao
+  examples: |
+    - o que é aprovação
+    - sobre aprovação
+    - defina aprovação
+    - o que acontece na aprovação
+    - o que acontece na etapa aprovação
+    - o que ocorre na aprovação
+    - o que ocorre na etapa aprovação
+    - aprovação
+    - fase aprovação
+    - etapa aprovação
+    - qual prazo para aprovação do projeto
+    - como são aprovados os projetos
+    - quanto tempo leva para ter um projeto aprovado
+    - como aprovar um projeto
+    - aprovar projeto
+    - projeto aprovado
+
+- intent: processo_execucao
+  examples: |
+    - o que é execução
+    - sobre execução
+    - defina execução
+    - o que devo fazer na execução
+    - fase de execução
+    - fase execução
+    - etapa execução
+    - execução
+    - o que acontence na etapa execução
+    - execução
+    - execucao
+
+- intent: processo_analise_de_resultados
+  examples: |
+    - o que devo fazer no análise de resultados
+    - o que ocorre na análise de resultados
+    - o que acontece na análise de resultados
+    - o que é análise de resultados
+    - sobre análise de resultados
+    - defina análise de resultados
+    - defina prestação de contas
+    - etapa análise de resultados
+    - analise de resultados
+
+- intent: processo_reativacao_de_proposta
+  examples: |
+    - posso encaminhar pedido de reativação
+    - como encaminhar pedido de reativação
+    - como refazer a reativação de pedido
+    - refazer o encaminhamento do pedido de reativação
+    - pedido de reativação
+    - reativar proposta
+    - proposta indeferida como reativar
+    - posso reativar uma proposta indeferida
+    - existe um meio de reativar uma proposta indeferida?
+    - minha proposta foi rejeitada, como reativar ela?
+    - posso fazer o pedido de reativação?
+    - como reativar uma proposta?
+    - reativamentovamento de proposta
+    - proposta arquivada
+    - reativação de proposta
+    - reativamento
+    - reativação
+
+- intent: processo_prazo
+  examples: |
+    - tenho duvida sobre o prazo
+    - fale sobre o prazo
+    - qual e o prazo
+    - sabe o prazo
+    - prazos
+    - prazo
+    - deadline
+    - como prorogar prazo
+    - prorrogação de prazo
+    - solicitar prorrogação de prazo
+
+- intent:  processo_prazo_apresentar_proposta
+  examples: |
+    - ate quando vai as incrições para projetos lei roanet
+    - estão abertas ate quando as inscrições
+    - qual é o prazo para inscrever projeto no Salic
+    - qual a data para apresentar um projeto
+    - qual a data para apresentar uma proposta
+    - qual a data para apresentação de projeto
+    - qual a data para apresentação de proposta
+    - qual o prazo para inscriçao
+    - qual o prazo para inscrição
+    - qual o prazo para inscricao
+    - qual o prazo
+    - quando devo enviar meu projeto
+    - quando devo enviar a minha proposta
+    - prazo para cadastro de projetos o ano de 2020 
+    - prazo de encerramento edital salic
+    - prazo para inscrição de projeto
+    - prazo para apresentar projeto
+    - prazo para apresentar proposta
+    - prazo de inserção de projetos
+    - data de envio de projeto
+    - data de envio de proposta
+    - data para iniciar projeto
+    - data para inciar proposta
+    - data para inscrição de projeto
+    - data para apresentar projeto
+    - data para apresentar proposta
+    - o salic está com as inscrições abertas
+    - apresentacao de projeto
+    - apresentacao de proposta
+    - apresentação de projeto
+    - apresentação de proposta
+    - apresentar projeto
+    - apresentar proposta
+    - enviar projeto
+    - enviar proposta
+
+- intent: processo_prazo_envio_cnae
+  examples: |
+    - tenho duvida sobre o prazo de envio cnae
+    - envio do cnae, qual é o prazo
+    - envio do cnae, qual é o prazo limite
+    - qual é o prazo limite para envio do cnae
+    - até quando posso enviar o cnae
+    - tem algum prazo para enviar o cnae
+    - prazo cnae
+    - envio do cnae
+    - prazo para enviar cnae
+    - prazo de envio de cnae
+    - cnae
+
+- intent: processo_prazo_analise_proposta
+  examples: |
+    - qual é o prazo da analise de proposta
+    - sobre analise de propostas, qual é o prazo
+    - qual é o periodo de analise de proposta
+    - período análise de proposta
+    - periodo analise de proposta
+    - prazo de análise de proposta
+    - prazo de analise de proposta
+    - data avaliação de proposta
+    - data avaliacao de proposta
+    - análise de proposta
+    - analise de proposta
+
+- intent: processo_prazo_analise_tecnica
+  examples: |
+    - qual é o prazo da analise tecnica
+    - sobre analise técnica, qual é o prazo
+    - qual é o periodo de analise tecnica
+    - saber sobre analise tecnica
+    - périodo técnica
+    - periodo analise tecnica
+    - prazo análise técnica
+    - prazo analise tecnica
+    - data avaliação técnica
+    - data avaliacao tecnica
+    - análise técnica
+    - analise tecnica
+
+- intent: processo_prazo_readequacao
+  examples: |
+    - posso saber sobre o periodo de readequacao
+    - posso saber sobre o período de readequação
+    - preciso fazer uma readequação orçamentária
+    - sobre o prazo de readequaçao
+    - qual é o periodo de readequacao
+    - qual é o prazo de readequacao
+    - qual é o prazo de readequação
+    - qual é o prazo para readequação
+    - qual e o prazo para readequacao
+    - sobre o periodo de readequacao
+    - sobre o período de readequação
+    - readequação orçamentária
+    - périodo readequação
+    - período de readequação
+    - periodo de readequacao
+    - período de readequação
+    - periodo readequacao
+    - prazo readequação
+    - prazo readequacao
+    - data readequação
+    - data readequacao
+    - readequação
+    - readequacao
+
+- intent: processo_prazo_periodo_captacao
+  examples: |
+    - gostaria de saber o prazo para captação
+    - quando é expirado o prazo para captação total
+    - qual prazo para a captação total
+    - quanto tempo para captar
+    - periodo de captacao
+    - prazo de captacao
+    - captacao, qual é o prazo
+    - périodo captacao
+    - periodo captacao
+    - período de captação
+    - periodo de captacao
+    - prazo captacao
+    - prazo captacao
+    - data captacao
+    - data captacao
+
+- intent: processo_prazo_prestacao_contas
+  examples: |
+    - qual é o periodo para prestar contas
+    - qual é o prazo de prestação de contas
+    - posso prorrogar a entrega da prestação de contas
+    - posso fazer prorrogação para a entrega de contas
+    - prorrogação de prazos de prestação de contas
+    - posso prorrogar a prestação e contas
+    - como prorrogar a prestação de contas
+    - périodo prestação de contas
+    - periodo prestacao contas
+    - prazo prestação de contas
+    - prazo para prestar contas
+    - periodo para prestar contas
+    - prazo prestacao de contas
+    - data prestação de contas
+    - data prestacao de contas
+    - prorrogar prestação de contas
+    - o que é prestação de contas
+    - sobre prestação de contas
+    - o que devo fazer no prestação de contas
+    - tenho algumas duvidas sobre prestaçao de contas
+    - posso prorrogar prazo de prestação de contas por omissão
+    - posso prorrogar prazo de prestacao de contas por omissao
+    - prestação de contas por omissão
+    - prestacao de contas por omissao
+    - o que é prestação de contas
+    - como prestar contas
+    - fazer prestação de contas
+    - como funciona a prestação de contas
+    - prestaçao de contas
+    - prestacao de contas
+    - prestação de contas
+    - prestar contas
+
+- intent: processo_prazo_diligencias
+  examples: |
+    - tenho duvida sobre o prazo de diligencias
+    - quero saber o prazo de diligências
+    - me fale sobre o prazo de diligências
+    - sobre o prazo de diligências
+    - diligências, qual é o prazo
+    - diligências, qual é o prazo limite
+    - qual é o prazo de diligências
+    - periodo diligência
+    - periodo de diligencia
+    - periodo diligencias
+    - prazo diligências
+    - prazo diligencias
+    - data de diligencia
+    - data diligencias
+    - diligências
+    - diligencias
+
+- intent: processo_prazo_desarquivar
+  examples: |
+    - qual é o periodo para desarquivar propostas
+    - qual é o perídodo para desarquivar proposta
+    - qual é o prazo para desarquivar propostas
+    - qual é o prazo para desarquivar proposta
+    - quando eu posso desarquivar uma proposta
+    - me ajuda desarquivar proposta
+    - preciso desarquivar proposta
+    - desarquivar proposta
+    - desarquivar proposta
+    - desarquivar projeto
+    - périodo desarquivar
+    - periodo desarquivar
+    - prazo para desarquivar proposta
+    - prazo desarquivar proposta
+    - prazo para desarquivar
+    - prazo desarquivar
+    - data desarquivar
+    - desarquivar
+
+- intent: processo_prazo_desistir_recurso
+  examples: |
+    - desistir do prazo recursal
+    - desistir do recurso
+    - prazo pra encaminhar recurso
+    - como é a desistência do prazo de recurso
+    - sobre o prazo de ecaminhamento de recurso, como desisto dele
+    - da pra desistir do prazo de recurso
+    - dá pra desistir do prazo de recurso
+    - após o enquadramento, como desisto do prazo de recurso?
+    - qual o prazo para desisitr de entrar com o recurso?
+    - não quero entrar com o recurso
+    - quero desistir do prazo de recurso
+    - desistência
+    - desistir
+
+- intent: salic_cadastro_usuario
+  examples: |
+    - como me cadastro no salic
+    - como criar login no salic
+    - como entrar no salic
+    - qual o endereço do salic
+    - o que eu preciso para cadastrar no salic
+    - me cadastre no salic
+    - como realizar cadastro de usuários
+    - como realizar cadastro de usuario
+    - cadastro 
+    - usuarios
+
+- intent: salic_cadastro_proponente
+  examples: |
+    - como cadastrar o proponente via salic ?
+    - o que devo fazer para cadastrar um proponente ?
+    - cadastro de proponente ?
+    - como fazer cadastro de proponente?
+    - como fazer cadastro de um proponente?
+    - cadastrar proponente
+    - cadastro de proponente
+    - como faço para cadastrar um proponente?
+    - como realizar cadastro de proponentes
+
+- intent: salic_recuperacao_de_senha
+  examples: |
+    - como eu faço para recuperar meu cadastro
+    - não me recordo da senha de acesso
+    - não consigo acessar meus dados do salic
+    - não consigo acessar o salic
+    - recuperar meu acesso ao sistema
+    - esqueci a senha do salic
+    - como recuperar senha
+    - recuperação de senha
+    - perdi minha senha do salic
+    - esqueci minha senha no salic
+    - gostaria de saber como mudar minha senha
+    - mudança de senha
+    - como realizo a mudança de senha?
+    - como mudo a senha?
+    - como troco minha senha?
+    - esqueci a senha
+    - perdi minha senha
+    - recuperar senha
+    - mudar senha
+    - senha
+
+- intent: salic_erros
+  examples: |
+    - quero relatar um erro no sistema do salic
+    - estou com problemas no salic
+    - sobre erros de sistema
+    - sobre erros no salic
+    - erros no sistema salic
+    - erros do salic
+    - erro no salic
+    - problemas de sistema
+    - problemas no salic
+    - erros na plataforma salic
+    - erros salic
+    - problemas salic
+    - erros
+
+- intent: salic_erros_salvamento_de_proposta
+  examples: |
+    - perdi minhas alterações na proposta
+    - não salvou minhas alterações na proposta
+    - não consegui salvar minha proposta
+    - minha proposta não foi salva
+    - proposta não foi salvaapós
+    - alteração não foi salva fechar
+    - o salic não salvou minhas alterações na proposta
+    - houve um erro ao gravar minha proposta
+    - salic não salvou minha proposta
+    - não salvou minha proposta
+    - não foi salva
+    - erro ao gravar proposta
+    - erro ao salvar proposta
+    - erro alterações na proposta
+    - erro salvamento proposta
+    - erro ao salvar minha proposta
+    - erro ao salvar proposta
+
+- intent: salic_erros_planilha_desapareceu
+  examples: |
+    - minha planilha sumiu
+    - minha planilha desapareceu
+    - não acho minha planilha
+    - não encontro minha planilha
+    - planilha sumiu
+    - planilha desapareceu
+    - como recuperar minha planilha que sumiu?
+    - a planilha orçamentária sumiu
+    - a planilha orçamentária não aparece
+    - perdi a planilha orçamentária
+    - planilha sumiu
+    - planilha desapareceu
+
+- intent: salic_erros_vinculo_cpf_cnpj
+  examples: |
+    - solicitação de vínculo pendente
+    - o sistema acusou como solicitação de vínculo pendente
+    - vinculo um cpf a um cnpj?
+    - vincular cpf cnpj
+    - associar cpf a pessoa jurídica
+    - associar pessoa fisica a pessoa jurídica
+    - associar pessoa fisica a cnpj
+    - associar pessoa física
+    - vincular cpf
+
+- intent: salic_erros_achar_proposta
+  examples: |
+    - não consigo achar minha proposta no sistema
+    - como encontrar a minha proposta
+    - não sei achar minha proposta
+    - não acho minha proposta
+    - não consigo buscar minha proposta
+    - não encontro minha proposta
+    - encontrar proposta
+    - perdi a proposta
+
+- intent: salic_preenchimento
+  examples: |
+    - instruções de preenchimento 
+    - quero preencher proposta
+    - instruir preenchimento
+    - preencher proposta
+    - como preencho uma proposta
+    - como preencher uma proposta
+    - como preencher propostas
+    - preencher proposta
+
+- intent: salic_preenchimento_campo_custo_auditoria
+  examples: |
+    - campo custo de auditoria
+    - como preencher o campo custo de auditoria
+    - custo de auditoria
+    - o que colocar no custo de auditoria
+    - prencher custo de auditoria
+    - custo de auditoria
+    - custo auditoria
+
+- intent: salic_preenchimento_cadastro_rubrica_advogado_contador
+  examples: |
+    - cadastrar as rubricas de advogado e contador
+    - cadastro de rubricas de advogado
+    - cadastro de rubricas de contador
+    - incluir rubricas
+    - rubricas de contador
+    - rubricas de advogado
+    - como enviar rubricas de advogados
+    - cadastrar rubricas
+    - cadastro de rúbricas
+    - rubricas
+    - rúbricas
+
+- intent: salic_preenchimento_valor_ingresso
+  examples: |
+    - ultrapassar o valor do ingresso
+    - não irei comercializar ingressos
+    - ingresso não ultrapassa o valor citado
+    - não vou comercializar ingressos
+    - ingresso não ultrapassa o máximo por beneficiário
+    - meu ingresso ultrapassa o valor permitido
+    - não vou vender ingresso no meu projeto
+    - valor do ingresso excedeu o permitido
+    - como calcula o valor do ingresso
+    - o ingresso do evento pode ser gratuito
+    - valor do ingresso
+
+- intent: salic_preenchimento_vinculo_cpf_proposta
+  examples: |
+    - como vincular uma proposta ao meu cpf
+    - vincular uma proposta ao cpf do responsável
+    - vincular proposta ao cpf
+    - como vincular proposta a pessoa fisica
+    - vincular pessoa física e proposta
+    - vincular proposta a pessoa
+    - vinculo de proposta
+    - vincular proposta
+    - vínculo de proposta
+
+- intent: salic_preenchimento_cadastro_agencia_bancaria
+  examples: |
+    - preciso ter conta corrente no banco do brasil
+    - eu já preciso de uma conta no banco do brasil para inscrever o projeto?
+    - preciso de uma conta bancária?
+    - preciso de uma conta no banco do brasil
+    - agência bancária inválida
+    - o sistema indica agência inválida
+    - cadastrar minha agência bancária
+    - como eu cadastro a agência
+    - o campo de agência possui hífen
+    - qual o formato do campo de agência bancária
+    - deu erro ao cadastrar a agência
+    - tenho duvidas sobre o formato do campo de agencia bancaria
+    - como é o formato do campo da agência bancária
+    - qual banco
+    - cadastrar agência bancária
+    - campo de agência
+    - agência inválida
+    - cadastro de agência
+    - como cadastrar minha agência
+    - agencia bancaria
+    - agência bancária
+
+- intent: salic_preenchimento_alteracao_proponente
+  examples: |
+    - preciso realizar a troca de proponente para projetos aprovados
+    - preciso fazer a mudança de proponente
+    - preciso alterar o proponente
+    - como realizar a troca de proponente para projetos aprovados
+    - como proceder para troca de proponente em propostas
+    - gostaria de saber como fazer a troca do proponente
+    - como faço a alteração do proponente
+    - como faco a alteracao do proponente
+    - como mudar o proponente do projeto
+    - me ajuda a alterar o proponente
+    - realizar troca de proponente
+    - troca proponente em propostas
+    - troca proponente em projetos
+    - troca proponente
+    - alteracao proponente
+    - alteração proponente
+    - mudança de proponente
+    - mudanca de proponente
+    - modificar proponente
+    - mudar proponente
+
+- intent: salic_preenchimento_comprovacao_financeira
+  examples: |
+    - quais os documentos fiscais válidos para a prestação de contas dos projetos
+    - como fazer a comprovação da despesa executada pelo proponente
+    - gostaria de fazer a comprovacao executada pelo proponente
+    - como enviar a prestação de contas do projeto?
+    - quero enviar a prestacao de contas do projeto
+    - por qual meio eu apresento a prestação de contas
+    - posso entregar a prestação de contas meio fisico
+    - posso enviar a prestação de contas meio fisico
+    - como enviar a prestação de contas do projeto
+    - como fazer prestação de contas
+    - quero realizar a comprovacao financeira
+    - como realizar a comprovação financeira
+    - como realizar a comprovação de despesa
+    - como realizar a comprovação
+    - realizar a comprovação
+    - realizar a comprovacao
+    - prestação de contas
+    - prestacao de contas
+    - comprovação financeira
+    - comprovacao financeira
+    - comprovação de despesa
+    - comprovacao de despesa
+    - despesa proponente
+    - documento prestação de contas
+    - entregar prestação de contas
+    - enviar prestação de contas
+    - enviar prestacao de contas
+    - prestação de contas projeto
+    - prestacao de contas projeto
+    - enviar comprovação
+    - enviar comprovacao
+    - fazer comprovação
+    - fazer comprovacao
+
+- intent: salic_preenchimento_planilha_orcamentaria
+  examples: |
+    - itens que compõem o orçamento analílito da planilha orçamentária
+    - itens que compõem o orçamento analílito da planilha orcamentaria
+    - como faço para preencher a minha planilha orçamentária
+    - como faço para preencher a minha planilha orcamentaria
+    - como faço para preencher a planilha orçamentária
+    - como faço para preencher a planilha orcamentaria
+    - como posso preencher a planilha orçamentária
+    - como posso preencher a planilha orcamentaria
+    - como preencher a planilha orçamentária
+    - como preencher a planilha orcamentaria
+    - me explica como preencher a planilha orçamentária
+    - me explica como preencher a planilha orcamentaria
+    - preciso de ajuda com a planilha orçamentária
+    - preciso de ajuda com a planilha orcamentaria
+    - me ajuda com a minha planilha orçamentária
+    - me ajuda com a minha planilha orcamentaria
+    - preenchimento da planilha orçamentária
+    - preenchimento da planilha orcamentaria
+    - organizar a planilha orçamentária
+    - organizar a planilha orcamentaria
+    - preencher a planilha orçamentária
+    - preencher a planilha orcamentaria
+    - minha planilha orçamentária
+    - minha planilha orcamentaria
+    - planilha orçamentária
+    - planilha orcamentaria
+    - itens do orçamento
+    - itens do orcamento
+
+- intent: salic_preenchimento_cadastro_fornecedor
+  examples: |
+    - sou um fornecedor, como faço para me cadastrar no Salic
+    - como faço para eu cadastrar um fornecedor no salic
+    - como posso cadastrar um fornecedor no salic
+    - como se cadastrar no salic como fornecedor
+    - como cadastrar no salic um fornecedor
+    - como posso cadastrar um fornecedor
+    - como me cadastro como fornecedor
+    - quero cadastrar um fornecedor não cadastrado
+    - quero cadastrar um fornecedor nao cadastrado
+    - quero me cadastrar como fornecedor
+    - cadastrar fornecedor não cadastrado
+    - cadastrar fornecedor nao cadastrado
+    - fornecedor não cadastrado
+    - fornecedor nao cadastrado
+    - cadastramento de fornecedor
+    - inscrever um fornecedor
+    - cadastrar um fornecedor
+    - cadastro de fornecedor
+    - cadastrar fornecedor
+    - fornecedor

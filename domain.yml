@@ -1,0 +1,123 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+    - cumprimentar
+    - despedir
+    - out_of_scope
+    - afirmar
+    - negar
+    - o_que_sei_falar
+    - quem_criou_a_tais
+    - diga_mais
+    - tudo_bem
+    - elogios
+    - tem_wpp
+    - negar_despedir
+    - agradecimento
+    - contato
+    - endereco
+
+    - captacao
+    - captacao_quando_captar
+    - captacao_como_captar
+
+    - definicao_tais
+    - definicao_minc
+    - definicao_cnic
+    - definicao_sefic
+    - definicao_projeto
+    - definicao_proposta
+    - definicao_proponente
+    - definicao_salic
+    - definicao_vinculada
+
+    - lei_rouanet_o_que_eh
+    - lei_rouanet_quantidade_de_projetos
+    - lei_rouanet_quantidade_de_projetos_este_ano
+    - lei_rouanet_beneficios_incentivo_projetos_culturais
+    - lei_rouanet_quem_pode_ser_proponente
+    - lei_rouanet_origem_do_dinheiro
+    - lei_rouanet_denuncia
+    - lei_rouanet_quem_pode_incentivar
+    - lei_rouanet_porcentagem_de_deducao_do_imposto
+    - lei_rouanet_remuneracao_proponente
+    - lei_rouanet_comercializacao_de_ingressos
+    - lei_rouanet_promocao_de_marca
+    - lei_rouanet_valores_pagamento_caches
+    - lei_rouanet_etapas_aprovacao_projeto
+    - lei_rouanet_apresentacao_de_proposta
+    - lei_rouanet_analise_de_admissibilidade
+    - lei_rouanet_analise_tecnica
+    - lei_rouanet_analise_pela_cnic
+    - lei_rouanet_decisao_final
+    - lei_rouanet_valor_maximo_projeto
+    - lei_rouanet_valor_maximo_pessoa_fisica
+    - lei_rouanet_valor_maximo_pessoa_juridica
+    - lei_rouanet_valor_maximo_geral
+    - lei_rouanet_divulgacao_patrocinio
+    - lei_rouanet_receber_incetivo_de_parentes
+    - lei_rouanet_democratizacao
+    - lei_rouanet_remanejamento
+    - lei_rouanet_edital
+    - lei_rouanet_recibo_mecenato
+    - lei_rouanet_reembolso_despesa
+    - lei_rouanet_tipos_projeto
+    - lei_rouanet_contrapartidas_sociais
+    - lei_rouanet_pagamento
+    - lei_rouanet_acessibilidade
+    - lei_rouanet_intermediacao
+    - lei_rouanet_contador_advogado
+    - lei_rouanet_custo_vinculado
+    - lei_rouanet_pagamento_direcionado
+    - lei_rouanet_enquadramento
+
+    - processo_como_funciona
+    - processo_definicao_etapas
+    - processo_preenchimento
+    - processo_admissibilidade
+    - processo_aprovacao
+    - processo_execucao
+    - processo_analise_de_resultados
+    - processo_reativacao_de_proposta
+    - processo_prazo
+    - processo_prazo_apresentar_proposta
+    - processo_prazo_envio_cnae
+    - processo_prazo_desistir_recurso
+    - processo_prazo_analise_proposta
+    - processo_prazo_analise_tecnica
+    - processo_prazo_readequacao
+    - processo_prazo_periodo_captacao
+    - processo_prazo_prestacao_contas
+    - processo_prazo_diligencias
+    - processo_prazo_desarquivar
+
+    - salic_cadastro_usuario
+    - salic_cadastro_proponente
+    - salic_recuperacao_de_senha
+    - salic_erros
+    - salic_erros_salvamento_de_proposta
+    - salic_erros_planilha_desapareceu
+    - salic_erros_vinculo_cpf_cnpj
+    - salic_erros_achar_proposta
+    - salic_preenchimento
+    - salic_preenchimento_campo_custo_auditoria
+    - salic_preenchimento_cadastro_rubrica_advogado_contador
+    - salic_preenchimento_valor_ingresso
+    - salic_preenchimento_vinculo_cpf_proposta
+    - salic_preenchimento_cadastro_agencia_bancaria
+    - salic_preenchimento_alteracao_proponente
+    - salic_preenchimento_comprovacao_financeira
+    - salic_preenchimento_planilha_orcamentaria
+    - salic_preenchimento_cadastro_fornecedor
+
+    - erro_resposta_utter
+entities: []
+slots: {}
+responses: {}
+actions: []
+forms: {}
+e2e_actions: []
